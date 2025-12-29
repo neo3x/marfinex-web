@@ -3,7 +3,7 @@
     "id": "projects-hero",
     "elType": "section",
     "settings": {
-      "padding": {"unit": "px", "top": "100", "bottom": "100"}
+      "padding": {"unit": "px", "top": "100", "bottom": "80"}
     },
     "elements": [
       {
@@ -27,96 +27,7 @@
             "elType": "widget",
             "widgetType": "text-editor",
             "settings": {
-              "editor": "<p style=\"text-align: center; color: #64748b; font-size: 18px; max-width: 600px; margin: 0 auto;\">Casos reales donde la tecnologia marco la diferencia. Cada proyecto es una historia de transformacion.</p>"
-            }
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "projects-stats",
-    "elType": "section",
-    "settings": {
-      "padding": {"unit": "px", "top": "40", "bottom": "60"}
-    },
-    "elements": [
-      {
-        "id": "stat-1",
-        "elType": "column",
-        "settings": {"_column_size": 25},
-        "elements": [
-          {
-            "id": "stat-1-counter",
-            "elType": "widget",
-            "widgetType": "counter",
-            "settings": {
-              "starting_number": 0,
-              "ending_number": 50,
-              "suffix": "+",
-              "title": "Proyectos Completados",
-              "number_color": "#0f172a",
-              "title_color": "#64748b"
-            }
-          }
-        ]
-      },
-      {
-        "id": "stat-2",
-        "elType": "column",
-        "settings": {"_column_size": 25},
-        "elements": [
-          {
-            "id": "stat-2-counter",
-            "elType": "widget",
-            "widgetType": "counter",
-            "settings": {
-              "starting_number": 0,
-              "ending_number": 30,
-              "suffix": "+",
-              "title": "Clientes Activos",
-              "number_color": "#0f172a",
-              "title_color": "#64748b"
-            }
-          }
-        ]
-      },
-      {
-        "id": "stat-3",
-        "elType": "column",
-        "settings": {"_column_size": 25},
-        "elements": [
-          {
-            "id": "stat-3-counter",
-            "elType": "widget",
-            "widgetType": "counter",
-            "settings": {
-              "starting_number": 0,
-              "ending_number": 99,
-              "suffix": "%",
-              "title": "Satisfaccion",
-              "number_color": "#0f172a",
-              "title_color": "#64748b"
-            }
-          }
-        ]
-      },
-      {
-        "id": "stat-4",
-        "elType": "column",
-        "settings": {"_column_size": 25},
-        "elements": [
-          {
-            "id": "stat-4-counter",
-            "elType": "widget",
-            "widgetType": "counter",
-            "settings": {
-              "starting_number": 0,
-              "ending_number": 5,
-              "suffix": " años",
-              "title": "Experiencia",
-              "number_color": "#0f172a",
-              "title_color": "#64748b"
+              "editor": "<p style=\"text-align: center; color: #64748b; font-size: 18px; max-width: 600px; margin: 0 auto;\">Soluciones reales que combinan inteligencia artificial, IoT y desarrollo de software para resolver problemas concretos.</p>"
             }
           }
         ]
@@ -127,9 +38,7 @@
     "id": "projects-grid",
     "elType": "section",
     "settings": {
-      "padding": {"unit": "px", "top": "60", "bottom": "80"},
-      "background_background": "classic",
-      "background_color": "#f8fafc"
+      "padding": {"unit": "px", "top": "40", "bottom": "80"}
     },
     "elements": [
       {
@@ -142,19 +51,18 @@
             "elType": "widget",
             "widgetType": "image-box",
             "settings": {
-              "image": {"url": ""},
-              "title_text": "Sistema de Deteccion de Amenazas",
-              "description_text": "Implementacion de un sistema de monitoreo en tiempo real para una empresa financiera. Reduccion del 85% en incidentes de seguridad.",
+              "title_text": "Martin POS",
+              "description_text": "Sistema punto de venta con IA para restaurantes, librerias y minimarkets. Integracion con Transbank, facturacion electronica SII y asistente inteligente para gestion de inventario.",
               "title_color": "#0f172a",
               "description_color": "#64748b"
             }
           },
           {
-            "id": "project-1-tag",
+            "id": "project-1-tags",
             "elType": "widget",
             "widgetType": "text-editor",
             "settings": {
-              "editor": "<span style=\"background: rgba(59, 130, 246, 0.1); color: #3b82f6; padding: 4px 12px; border-radius: 4px; font-size: 12px; text-transform: uppercase;\">Ciberseguridad</span>"
+              "editor": "<div style=\"display: flex; gap: 8px; flex-wrap: wrap;\"><span style=\"background: rgba(59, 130, 246, 0.1); color: #3b82f6; padding: 4px 12px; border-radius: 4px; font-size: 11px;\">NestJS</span><span style=\"background: rgba(16, 185, 129, 0.1); color: #10b981; padding: 4px 12px; border-radius: 4px; font-size: 11px;\">Next.js</span><span style=\"background: rgba(139, 92, 246, 0.1); color: #8b5cf6; padding: 4px 12px; border-radius: 4px; font-size: 11px;\">Claude AI</span></div>"
             }
           }
         ]
@@ -169,19 +77,18 @@
             "elType": "widget",
             "widgetType": "image-box",
             "settings": {
-              "image": {"url": ""},
-              "title_text": "Chatbot de Atencion al Cliente",
-              "description_text": "Desarrollo de un asistente virtual con IA para una cadena retail. Atencion 24/7 con 90% de resolucion automatica.",
+              "title_text": "Martin Medical POS",
+              "description_text": "Sistema de punto de venta especializado para el sector salud. Gestion de recetas, inventario de medicamentos y cumplimiento normativo para farmacias y clinicas.",
               "title_color": "#0f172a",
               "description_color": "#64748b"
             }
           },
           {
-            "id": "project-2-tag",
+            "id": "project-2-tags",
             "elType": "widget",
             "widgetType": "text-editor",
             "settings": {
-              "editor": "<span style=\"background: rgba(16, 185, 129, 0.1); color: #10b981; padding: 4px 12px; border-radius: 4px; font-size: 12px; text-transform: uppercase;\">Inteligencia Artificial</span>"
+              "editor": "<div style=\"display: flex; gap: 8px; flex-wrap: wrap;\"><span style=\"background: rgba(59, 130, 246, 0.1); color: #3b82f6; padding: 4px 12px; border-radius: 4px; font-size: 11px;\">TypeScript</span><span style=\"background: rgba(245, 158, 11, 0.1); color: #f59e0b; padding: 4px 12px; border-radius: 4px; font-size: 11px;\">React Native</span><span style=\"background: rgba(16, 185, 129, 0.1); color: #10b981; padding: 4px 12px; border-radius: 4px; font-size: 11px;\">PostgreSQL</span></div>"
             }
           }
         ]
@@ -196,19 +103,18 @@
             "elType": "widget",
             "widgetType": "image-box",
             "settings": {
-              "image": {"url": ""},
-              "title_text": "Migracion Segura a la Nube",
-              "description_text": "Traslado de infraestructura on-premise a AWS para una empresa de logistica. Zero downtime durante la transicion.",
+              "title_text": "Martin Budget Advisor",
+              "description_text": "Asesor financiero con IA que analiza gastos, sugiere optimizaciones y ayuda a planificar presupuestos personales y empresariales de forma inteligente.",
               "title_color": "#0f172a",
               "description_color": "#64748b"
             }
           },
           {
-            "id": "project-3-tag",
+            "id": "project-3-tags",
             "elType": "widget",
             "widgetType": "text-editor",
             "settings": {
-              "editor": "<span style=\"background: rgba(139, 92, 246, 0.1); color: #8b5cf6; padding: 4px 12px; border-radius: 4px; font-size: 12px; text-transform: uppercase;\">Cloud</span>"
+              "editor": "<div style=\"display: flex; gap: 8px; flex-wrap: wrap;\"><span style=\"background: rgba(139, 92, 246, 0.1); color: #8b5cf6; padding: 4px 12px; border-radius: 4px; font-size: 11px;\">IA Generativa</span><span style=\"background: rgba(59, 130, 246, 0.1); color: #3b82f6; padding: 4px 12px; border-radius: 4px; font-size: 11px;\">Finanzas</span></div>"
             }
           }
         ]
@@ -223,19 +129,18 @@
             "elType": "widget",
             "widgetType": "image-box",
             "settings": {
-              "image": {"url": ""},
-              "title_text": "Automatizacion de Procesos",
-              "description_text": "RPA para automatizar tareas administrativas en una firma legal. Ahorro de 200+ horas mensuales de trabajo manual.",
+              "title_text": "Martin Lawyer",
+              "description_text": "Asistente legal con IA para analisis de documentos, generacion de contratos y consultas juridicas. Automatiza tareas legales repetitivas con precision.",
               "title_color": "#0f172a",
               "description_color": "#64748b"
             }
           },
           {
-            "id": "project-4-tag",
+            "id": "project-4-tags",
             "elType": "widget",
             "widgetType": "text-editor",
             "settings": {
-              "editor": "<span style=\"background: rgba(245, 158, 11, 0.1); color: #f59e0b; padding: 4px 12px; border-radius: 4px; font-size: 12px; text-transform: uppercase;\">Automatizacion</span>"
+              "editor": "<div style=\"display: flex; gap: 8px; flex-wrap: wrap;\"><span style=\"background: rgba(139, 92, 246, 0.1); color: #8b5cf6; padding: 4px 12px; border-radius: 4px; font-size: 11px;\">LLM</span><span style=\"background: rgba(16, 185, 129, 0.1); color: #10b981; padding: 4px 12px; border-radius: 4px; font-size: 11px;\">NLP</span><span style=\"background: rgba(59, 130, 246, 0.1); color: #3b82f6; padding: 4px 12px; border-radius: 4px; font-size: 11px;\">Legal Tech</span></div>"
             }
           }
         ]
@@ -250,19 +155,18 @@
             "elType": "widget",
             "widgetType": "image-box",
             "settings": {
-              "image": {"url": ""},
-              "title_text": "Auditoria de Seguridad Integral",
-              "description_text": "Evaluacion completa de la postura de seguridad para una startup fintech. Identificacion y remediacion de 45 vulnerabilidades.",
+              "title_text": "Martin Mercado Publico",
+              "description_text": "Sistema de monitoreo y analisis de licitaciones publicas en Chile. Alertas automaticas, seguimiento de oportunidades y analisis de competencia en tiempo real.",
               "title_color": "#0f172a",
               "description_color": "#64748b"
             }
           },
           {
-            "id": "project-5-tag",
+            "id": "project-5-tags",
             "elType": "widget",
             "widgetType": "text-editor",
             "settings": {
-              "editor": "<span style=\"background: rgba(59, 130, 246, 0.1); color: #3b82f6; padding: 4px 12px; border-radius: 4px; font-size: 12px; text-transform: uppercase;\">Ciberseguridad</span>"
+              "editor": "<div style=\"display: flex; gap: 8px; flex-wrap: wrap;\"><span style=\"background: rgba(245, 158, 11, 0.1); color: #f59e0b; padding: 4px 12px; border-radius: 4px; font-size: 11px;\">Scraping</span><span style=\"background: rgba(59, 130, 246, 0.1); color: #3b82f6; padding: 4px 12px; border-radius: 4px; font-size: 11px;\">Automatizacion</span></div>"
             }
           }
         ]
@@ -277,19 +181,133 @@
             "elType": "widget",
             "widgetType": "image-box",
             "settings": {
-              "image": {"url": ""},
-              "title_text": "Prediccion de Demanda con ML",
-              "description_text": "Modelo de machine learning para predecir demanda de productos. Reduccion del 30% en costos de inventario.",
+              "title_text": "Directorio Farmacias",
+              "description_text": "Plataforma de busqueda y localizacion de farmacias con disponibilidad de medicamentos, turnos y precios comparativos para usuarios en Chile.",
               "title_color": "#0f172a",
               "description_color": "#64748b"
             }
           },
           {
-            "id": "project-6-tag",
+            "id": "project-6-tags",
             "elType": "widget",
             "widgetType": "text-editor",
             "settings": {
-              "editor": "<span style=\"background: rgba(16, 185, 129, 0.1); color: #10b981; padding: 4px 12px; border-radius: 4px; font-size: 12px; text-transform: uppercase;\">Inteligencia Artificial</span>"
+              "editor": "<div style=\"display: flex; gap: 8px; flex-wrap: wrap;\"><span style=\"background: rgba(16, 185, 129, 0.1); color: #10b981; padding: 4px 12px; border-radius: 4px; font-size: 11px;\">Geolocalizacion</span><span style=\"background: rgba(59, 130, 246, 0.1); color: #3b82f6; padding: 4px 12px; border-radius: 4px; font-size: 11px;\">API</span></div>"
+            }
+          }
+        ]
+      },
+      {
+        "id": "project-7",
+        "elType": "column",
+        "settings": {"_column_size": 33},
+        "elements": [
+          {
+            "id": "project-7-card",
+            "elType": "widget",
+            "widgetType": "image-box",
+            "settings": {
+              "title_text": "Face Detection Jetson Nano",
+              "description_text": "Sistema de deteccion facial en tiempo real usando NVIDIA Jetson Nano. Edge computing para control de acceso, asistencia y seguridad sin depender de la nube.",
+              "title_color": "#0f172a",
+              "description_color": "#64748b"
+            }
+          },
+          {
+            "id": "project-7-tags",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<div style=\"display: flex; gap: 8px; flex-wrap: wrap;\"><span style=\"background: rgba(139, 92, 246, 0.1); color: #8b5cf6; padding: 4px 12px; border-radius: 4px; font-size: 11px;\">Edge AI</span><span style=\"background: rgba(245, 158, 11, 0.1); color: #f59e0b; padding: 4px 12px; border-radius: 4px; font-size: 11px;\">Computer Vision</span><span style=\"background: rgba(16, 185, 129, 0.1); color: #10b981; padding: 4px 12px; border-radius: 4px; font-size: 11px;\">NVIDIA</span></div>"
+            }
+          }
+        ]
+      },
+      {
+        "id": "project-8",
+        "elType": "column",
+        "settings": {"_column_size": 33},
+        "elements": [
+          {
+            "id": "project-8-card",
+            "elType": "widget",
+            "widgetType": "image-box",
+            "settings": {
+              "title_text": "Weather Station",
+              "description_text": "Estacion meteorologica IoT con sensores de temperatura, humedad, presion y calidad del aire. Dashboard en tiempo real y alertas automaticas.",
+              "title_color": "#0f172a",
+              "description_color": "#64748b"
+            }
+          },
+          {
+            "id": "project-8-tags",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<div style=\"display: flex; gap: 8px; flex-wrap: wrap;\"><span style=\"background: rgba(59, 130, 246, 0.1); color: #3b82f6; padding: 4px 12px; border-radius: 4px; font-size: 11px;\">IoT</span><span style=\"background: rgba(16, 185, 129, 0.1); color: #10b981; padding: 4px 12px; border-radius: 4px; font-size: 11px;\">Sensores</span><span style=\"background: rgba(245, 158, 11, 0.1); color: #f59e0b; padding: 4px 12px; border-radius: 4px; font-size: 11px;\">Dashboard</span></div>"
+            }
+          }
+        ]
+      },
+      {
+        "id": "project-9",
+        "elType": "column",
+        "settings": {"_column_size": 33},
+        "elements": [
+          {
+            "id": "project-9-card",
+            "elType": "widget",
+            "widgetType": "image-box",
+            "settings": {
+              "title_text": "Martin Party Assistant",
+              "description_text": "Asistente con IA para planificacion de eventos. Gestion de invitados, proveedores, presupuestos y coordinacion automatizada para fiestas y celebraciones.",
+              "title_color": "#0f172a",
+              "description_color": "#64748b"
+            }
+          },
+          {
+            "id": "project-9-tags",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<div style=\"display: flex; gap: 8px; flex-wrap: wrap;\"><span style=\"background: rgba(139, 92, 246, 0.1); color: #8b5cf6; padding: 4px 12px; border-radius: 4px; font-size: 11px;\">IA</span><span style=\"background: rgba(245, 158, 11, 0.1); color: #f59e0b; padding: 4px 12px; border-radius: 4px; font-size: 11px;\">Eventos</span><span style=\"background: rgba(16, 185, 129, 0.1); color: #10b981; padding: 4px 12px; border-radius: 4px; font-size: 11px;\">Automatizacion</span></div>"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "projects-tech",
+    "elType": "section",
+    "settings": {
+      "padding": {"unit": "px", "top": "60", "bottom": "60"},
+      "background_background": "classic",
+      "background_color": "#f8fafc"
+    },
+    "elements": [
+      {
+        "id": "tech-col",
+        "elType": "column",
+        "settings": {"_column_size": 100},
+        "elements": [
+          {
+            "id": "tech-title",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+              "title": "Stack Tecnologico",
+              "align": "center",
+              "title_color": "#0f172a",
+              "typography_font_size": {"unit": "px", "size": 28}
+            }
+          },
+          {
+            "id": "tech-text",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<p style=\"text-align: center; color: #64748b; max-width: 700px; margin: 0 auto;\">TypeScript / NestJS / Next.js / React Native / PostgreSQL / Redis / Claude AI / OpenAI / NVIDIA Jetson / IoT / Python / Edge Computing</p>"
             }
           }
         ]
@@ -313,7 +331,7 @@
             "elType": "widget",
             "widgetType": "heading",
             "settings": {
-              "title": "¿Tu proyecto puede ser el proximo?",
+              "title": "¿Tienes un proyecto en mente?",
               "align": "center",
               "title_color": "#0f172a",
               "typography_font_size": {"unit": "px", "size": 32}
@@ -324,7 +342,7 @@
             "elType": "widget",
             "widgetType": "text-editor",
             "settings": {
-              "editor": "<p style=\"text-align: center; color: #64748b;\">Conversemos sobre tus desafios y como podemos ayudarte a resolverlos.</p>"
+              "editor": "<p style=\"text-align: center; color: #64748b;\">Conversemos sobre como podemos ayudarte a construirlo.</p>"
             }
           },
           {
