@@ -1,0 +1,373 @@
+[
+  {
+    "id": "services-hero",
+    "elType": "section",
+    "settings": {
+      "padding": {"unit": "px", "top": "100", "bottom": "100"}
+    },
+    "elements": [
+      {
+        "id": "hero-col",
+        "elType": "column",
+        "settings": {"_column_size": 100},
+        "elements": [
+          {
+            "id": "hero-title",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+              "title": "Soluciones a tu medida",
+              "align": "center",
+              "title_color": "#0f172a",
+              "typography_font_size": {"unit": "px", "size": 48}
+            }
+          },
+          {
+            "id": "hero-subtitle",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<p style=\"text-align: center; color: #64748b; font-size: 18px; max-width: 600px; margin: 0 auto;\">Ofrecemos servicios especializados en inteligencia artificial y ciberseguridad para empresas que buscan crecer de forma segura.</p>"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "services-grid",
+    "elType": "section",
+    "settings": {
+      "padding": {"unit": "px", "top": "60", "bottom": "80"}
+    },
+    "elements": [
+      {
+        "id": "service-1",
+        "elType": "column",
+        "settings": {"_column_size": 50},
+        "elements": [
+          {
+            "id": "service-1-box",
+            "elType": "widget",
+            "widgetType": "icon-box",
+            "settings": {
+              "selected_icon": {"value": "fas fa-shield-alt", "library": "fa-solid"},
+              "title_text": "Auditoria de Seguridad",
+              "description_text": "Analizamos tu infraestructura para identificar vulnerabilidades antes de que sean explotadas. Reportes detallados y plan de accion incluidos.",
+              "position": "left",
+              "title_color": "#0f172a",
+              "description_color": "#64748b",
+              "primary_color": "#3b82f6",
+              "icon_size": {"unit": "px", "size": 48}
+            }
+          }
+        ]
+      },
+      {
+        "id": "service-2",
+        "elType": "column",
+        "settings": {"_column_size": 50},
+        "elements": [
+          {
+            "id": "service-2-box",
+            "elType": "widget",
+            "widgetType": "icon-box",
+            "settings": {
+              "selected_icon": {"value": "fas fa-brain", "library": "fa-solid"},
+              "title_text": "Consultoria en IA",
+              "description_text": "Te ayudamos a implementar inteligencia artificial en tus procesos de negocio. Automatizacion inteligente que reduce costos y aumenta la eficiencia.",
+              "position": "left",
+              "title_color": "#0f172a",
+              "description_color": "#64748b",
+              "primary_color": "#3b82f6",
+              "icon_size": {"unit": "px", "size": 48}
+            }
+          }
+        ]
+      },
+      {
+        "id": "service-3",
+        "elType": "column",
+        "settings": {"_column_size": 50},
+        "elements": [
+          {
+            "id": "service-3-box",
+            "elType": "widget",
+            "widgetType": "icon-box",
+            "settings": {
+              "selected_icon": {"value": "fas fa-database", "library": "fa-solid"},
+              "title_text": "Proteccion de Datos",
+              "description_text": "Implementamos estrategias de proteccion de datos que cumplen con normativas internacionales. Cifrado, backups y recuperacion ante desastres.",
+              "position": "left",
+              "title_color": "#0f172a",
+              "description_color": "#64748b",
+              "primary_color": "#3b82f6",
+              "icon_size": {"unit": "px", "size": 48}
+            }
+          }
+        ]
+      },
+      {
+        "id": "service-4",
+        "elType": "column",
+        "settings": {"_column_size": 50},
+        "elements": [
+          {
+            "id": "service-4-box",
+            "elType": "widget",
+            "widgetType": "icon-box",
+            "settings": {
+              "selected_icon": {"value": "fas fa-robot", "library": "fa-solid"},
+              "title_text": "Automatizacion",
+              "description_text": "Diseñamos flujos de trabajo automatizados que liberan a tu equipo de tareas repetitivas. Mas tiempo para lo que realmente importa.",
+              "position": "left",
+              "title_color": "#0f172a",
+              "description_color": "#64748b",
+              "primary_color": "#3b82f6",
+              "icon_size": {"unit": "px", "size": 48}
+            }
+          }
+        ]
+      },
+      {
+        "id": "service-5",
+        "elType": "column",
+        "settings": {"_column_size": 50},
+        "elements": [
+          {
+            "id": "service-5-box",
+            "elType": "widget",
+            "widgetType": "icon-box",
+            "settings": {
+              "selected_icon": {"value": "fas fa-headset", "library": "fa-solid"},
+              "title_text": "Soporte 24/7",
+              "description_text": "Respuesta rapida ante incidentes de seguridad. Monitoreo continuo y equipo de respuesta disponible cuando mas lo necesitas.",
+              "position": "left",
+              "title_color": "#0f172a",
+              "description_color": "#64748b",
+              "primary_color": "#3b82f6",
+              "icon_size": {"unit": "px", "size": 48}
+            }
+          }
+        ]
+      },
+      {
+        "id": "service-6",
+        "elType": "column",
+        "settings": {"_column_size": 50},
+        "elements": [
+          {
+            "id": "service-6-box",
+            "elType": "widget",
+            "widgetType": "icon-box",
+            "settings": {
+              "selected_icon": {"value": "fas fa-graduation-cap", "library": "fa-solid"},
+              "title_text": "Capacitacion",
+              "description_text": "Formamos a tu equipo en mejores practicas de seguridad. El factor humano es la primera linea de defensa.",
+              "position": "left",
+              "title_color": "#0f172a",
+              "description_color": "#64748b",
+              "primary_color": "#3b82f6",
+              "icon_size": {"unit": "px", "size": 48}
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "services-process",
+    "elType": "section",
+    "settings": {
+      "padding": {"unit": "px", "top": "80", "bottom": "80"},
+      "background_background": "classic",
+      "background_color": "#f8fafc"
+    },
+    "elements": [
+      {
+        "id": "process-title-col",
+        "elType": "column",
+        "settings": {"_column_size": 100},
+        "elements": [
+          {
+            "id": "process-title",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+              "title": "Como trabajamos",
+              "align": "center",
+              "title_color": "#0f172a",
+              "typography_font_size": {"unit": "px", "size": 36}
+            }
+          },
+          {
+            "id": "process-subtitle",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<p style=\"text-align: center; color: #64748b; max-width: 500px; margin: 0 auto 40px;\">Un proceso simple y efectivo para garantizar resultados.</p>"
+            }
+          }
+        ]
+      },
+      {
+        "id": "step-1",
+        "elType": "column",
+        "settings": {"_column_size": 25},
+        "elements": [
+          {
+            "id": "step-1-content",
+            "elType": "widget",
+            "widgetType": "counter",
+            "settings": {
+              "starting_number": 1,
+              "ending_number": 1,
+              "prefix": "",
+              "suffix": "",
+              "title": "Analisis",
+              "number_color": "#3b82f6",
+              "title_color": "#0f172a"
+            }
+          },
+          {
+            "id": "step-1-text",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<p style=\"text-align: center; color: #64748b; font-size: 14px;\">Evaluamos tu situacion actual y necesidades especificas.</p>"
+            }
+          }
+        ]
+      },
+      {
+        "id": "step-2",
+        "elType": "column",
+        "settings": {"_column_size": 25},
+        "elements": [
+          {
+            "id": "step-2-content",
+            "elType": "widget",
+            "widgetType": "counter",
+            "settings": {
+              "starting_number": 2,
+              "ending_number": 2,
+              "title": "Estrategia",
+              "number_color": "#3b82f6",
+              "title_color": "#0f172a"
+            }
+          },
+          {
+            "id": "step-2-text",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<p style=\"text-align: center; color: #64748b; font-size: 14px;\">Diseñamos un plan personalizado para tu empresa.</p>"
+            }
+          }
+        ]
+      },
+      {
+        "id": "step-3",
+        "elType": "column",
+        "settings": {"_column_size": 25},
+        "elements": [
+          {
+            "id": "step-3-content",
+            "elType": "widget",
+            "widgetType": "counter",
+            "settings": {
+              "starting_number": 3,
+              "ending_number": 3,
+              "title": "Implementacion",
+              "number_color": "#3b82f6",
+              "title_color": "#0f172a"
+            }
+          },
+          {
+            "id": "step-3-text",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<p style=\"text-align: center; color: #64748b; font-size: 14px;\">Ejecutamos las soluciones con minimo impacto en tu operacion.</p>"
+            }
+          }
+        ]
+      },
+      {
+        "id": "step-4",
+        "elType": "column",
+        "settings": {"_column_size": 25},
+        "elements": [
+          {
+            "id": "step-4-content",
+            "elType": "widget",
+            "widgetType": "counter",
+            "settings": {
+              "starting_number": 4,
+              "ending_number": 4,
+              "title": "Soporte",
+              "number_color": "#3b82f6",
+              "title_color": "#0f172a"
+            }
+          },
+          {
+            "id": "step-4-text",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<p style=\"text-align: center; color: #64748b; font-size: 14px;\">Acompañamiento continuo para asegurar el exito.</p>"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "services-cta",
+    "elType": "section",
+    "settings": {
+      "padding": {"unit": "px", "top": "80", "bottom": "80"}
+    },
+    "elements": [
+      {
+        "id": "cta-col",
+        "elType": "column",
+        "settings": {"_column_size": 100},
+        "elements": [
+          {
+            "id": "cta-title",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+              "title": "¿Cual servicio necesitas?",
+              "align": "center",
+              "title_color": "#0f172a",
+              "typography_font_size": {"unit": "px", "size": 32}
+            }
+          },
+          {
+            "id": "cta-text",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<p style=\"text-align: center; color: #64748b;\">Agenda una llamada y conversemos sobre como podemos ayudarte.</p>"
+            }
+          },
+          {
+            "id": "cta-button",
+            "elType": "widget",
+            "widgetType": "button",
+            "settings": {
+              "text": "Agendar Llamada",
+              "align": "center",
+              "link": {"url": "#", "custom_attributes": "data-latepoint-booking|"},
+              "background_color": "#3b82f6",
+              "button_text_color": "#ffffff",
+              "border_radius": {"unit": "px", "size": 8}
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
