@@ -1,0 +1,48 @@
+[17-Dec-2025 21:19:34 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\HTTP\Response" not found in /home/zdtdjqar/public_html/wp-includes/SimplePie/src/File.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/SimplePie/src/File.php on line 21
+[17-Dec-2025 21:19:53 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\RegistryAware" not found in /home/zdtdjqar/public_html/wp-includes/SimplePie/src/Item.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/SimplePie/src/Item.php on line 17
+[17-Dec-2025 21:19:54 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\RegistryAware" not found in /home/zdtdjqar/public_html/wp-includes/SimplePie/src/Locator.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/SimplePie/src/Locator.php on line 26
+[17-Dec-2025 21:20:09 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\RegistryAware" not found in /home/zdtdjqar/public_html/wp-includes/SimplePie/src/Parser.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/SimplePie/src/Parser.php on line 19
+[17-Dec-2025 21:20:13 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\RegistryAware" not found in /home/zdtdjqar/public_html/wp-includes/SimplePie/src/Sanitize.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/SimplePie/src/Sanitize.php on line 34
+[17-Dec-2025 21:20:15 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\RegistryAware" not found in /home/zdtdjqar/public_html/wp-includes/SimplePie/src/Source.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/SimplePie/src/Source.php on line 17
+[23-Dec-2025 04:38:52 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\HTTP\Response" not found in /home/zdtdjqar/public_html/wp-includes/SimplePie/src/File.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/SimplePie/src/File.php on line 21
+[23-Dec-2025 04:38:56 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\RegistryAware" not found in /home/zdtdjqar/public_html/wp-includes/SimplePie/src/Item.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/SimplePie/src/Item.php on line 17
+[23-Dec-2025 04:38:56 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\RegistryAware" not found in /home/zdtdjqar/public_html/wp-includes/SimplePie/src/Locator.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/SimplePie/src/Locator.php on line 26
+[23-Dec-2025 04:39:03 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\RegistryAware" not found in /home/zdtdjqar/public_html/wp-includes/SimplePie/src/Parser.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/SimplePie/src/Parser.php on line 19
+[23-Dec-2025 04:39:04 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\RegistryAware" not found in /home/zdtdjqar/public_html/wp-includes/SimplePie/src/Sanitize.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/SimplePie/src/Sanitize.php on line 34
+[23-Dec-2025 04:39:05 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\RegistryAware" not found in /home/zdtdjqar/public_html/wp-includes/SimplePie/src/Source.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/SimplePie/src/Source.php on line 17

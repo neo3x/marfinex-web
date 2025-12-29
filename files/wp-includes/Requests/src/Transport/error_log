@@ -1,0 +1,16 @@
+[17-Dec-2025 21:17:28 UTC] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/zdtdjqar/public_html/wp-includes/Requests/src/Transport/Curl.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/Requests/src/Transport/Curl.php on line 25
+[17-Dec-2025 21:17:29 UTC] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/zdtdjqar/public_html/wp-includes/Requests/src/Transport/Fsockopen.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/Requests/src/Transport/Fsockopen.php on line 25
+[23-Dec-2025 04:37:33 UTC] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/zdtdjqar/public_html/wp-includes/Requests/src/Transport/Curl.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/Requests/src/Transport/Curl.php on line 25
+[23-Dec-2025 04:37:34 UTC] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/zdtdjqar/public_html/wp-includes/Requests/src/Transport/Fsockopen.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/Requests/src/Transport/Fsockopen.php on line 25

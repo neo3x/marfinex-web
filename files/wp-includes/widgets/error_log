@@ -1,0 +1,224 @@
+[15-Sep-2025 12:39:25 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[22-Oct-2025 20:34:45 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Oct-2025 06:12:37 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[27-Oct-2025 23:39:30 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[03-Nov-2025 04:57:47 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[14-Nov-2025 03:21:34 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Nov-2025 21:06:42 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[28-Nov-2025 14:13:42 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[29-Nov-2025 02:17:39 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[11-Dec-2025 22:16:34 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[15-Dec-2025 03:00:04 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[15-Dec-2025 13:44:00 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[15-Dec-2025 17:44:40 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[17-Dec-2025 10:45:06 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[17-Dec-2025 21:33:17 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-nav-menu-widget.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-nav-menu-widget.php on line 17
+[17-Dec-2025 21:33:17 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-archives.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-archives.php on line 17
+[17-Dec-2025 21:33:18 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[17-Dec-2025 21:33:19 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-calendar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-calendar.php on line 17
+[17-Dec-2025 21:33:19 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-categories.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-categories.php on line 17
+[17-Dec-2025 21:33:20 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-custom-html.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-custom-html.php on line 17
+[17-Dec-2025 21:33:21 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-links.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-links.php on line 17
+[17-Dec-2025 21:33:22 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-media-audio.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-media-audio.php on line 18
+[17-Dec-2025 21:33:22 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-media-gallery.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-media-gallery.php on line 18
+[17-Dec-2025 21:33:23 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-media-image.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-media-image.php on line 18
+[17-Dec-2025 21:33:24 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-media-video.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-media-video.php on line 18
+[17-Dec-2025 21:33:25 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-media.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-media.php on line 17
+[17-Dec-2025 21:33:25 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-meta.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-meta.php on line 19
+[17-Dec-2025 21:33:26 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-pages.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-pages.php on line 17
+[17-Dec-2025 21:33:27 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-recent-comments.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-recent-comments.php on line 17
+[17-Dec-2025 21:33:27 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-recent-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-recent-posts.php on line 17
+[17-Dec-2025 21:33:28 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-rss.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-rss.php on line 17
+[17-Dec-2025 21:33:29 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-search.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-search.php on line 17
+[17-Dec-2025 21:33:30 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-tag-cloud.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17
+[17-Dec-2025 21:33:30 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-text.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-text.php on line 17
+[19-Dec-2025 01:49:12 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[21-Dec-2025 14:51:11 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[23-Dec-2025 04:48:36 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-nav-menu-widget.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-nav-menu-widget.php on line 17
+[23-Dec-2025 04:48:36 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-archives.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-archives.php on line 17
+[23-Dec-2025 04:48:37 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[23-Dec-2025 04:48:37 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-calendar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-calendar.php on line 17
+[23-Dec-2025 04:48:38 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-categories.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-categories.php on line 17
+[23-Dec-2025 04:48:38 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-custom-html.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-custom-html.php on line 17
+[23-Dec-2025 04:48:38 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-links.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-links.php on line 17
+[23-Dec-2025 04:48:39 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-media-audio.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-media-audio.php on line 18
+[23-Dec-2025 04:48:39 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-media-gallery.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-media-gallery.php on line 18
+[23-Dec-2025 04:48:39 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-media-image.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-media-image.php on line 18
+[23-Dec-2025 04:48:39 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget_Media" not found in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-media-video.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-media-video.php on line 18
+[23-Dec-2025 04:48:40 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-media.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-media.php on line 17
+[23-Dec-2025 04:48:40 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-meta.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-meta.php on line 19
+[23-Dec-2025 04:48:40 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-pages.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-pages.php on line 17
+[23-Dec-2025 04:48:41 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-recent-comments.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-recent-comments.php on line 17
+[23-Dec-2025 04:48:41 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-recent-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-recent-posts.php on line 17
+[23-Dec-2025 04:48:41 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-rss.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-rss.php on line 17
+[23-Dec-2025 04:48:42 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-search.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-search.php on line 17
+[23-Dec-2025 04:48:42 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-tag-cloud.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17
+[23-Dec-2025 04:48:42 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-text.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/widgets/class-wp-widget-text.php on line 17

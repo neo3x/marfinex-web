@@ -1,0 +1,698 @@
+[15-Sep-2025 12:08:42 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-phpmailer.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-phpmailer.php on line 16
+[15-Sep-2025 12:10:31 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-scripts.php on line 18
+[15-Sep-2025 12:11:27 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-styles.php on line 18
+[15-Sep-2025 12:22:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/zdtdjqar/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/template-canvas.php on line 12
+[22-Oct-2025 20:30:33 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-phpmailer.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-phpmailer.php on line 16
+[22-Oct-2025 20:30:44 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-scripts.php on line 18
+[22-Oct-2025 20:30:54 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-styles.php on line 18
+[22-Oct-2025 20:32:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/zdtdjqar/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/template-canvas.php on line 12
+[25-Oct-2025 06:09:54 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-phpmailer.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-phpmailer.php on line 16
+[25-Oct-2025 06:10:06 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-scripts.php on line 18
+[25-Oct-2025 06:10:13 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-styles.php on line 18
+[25-Oct-2025 06:11:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/zdtdjqar/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/template-canvas.php on line 12
+[27-Oct-2025 23:25:00 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-phpmailer.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-phpmailer.php on line 16
+[27-Oct-2025 23:25:49 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-scripts.php on line 18
+[27-Oct-2025 23:26:22 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-styles.php on line 18
+[27-Oct-2025 23:31:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/zdtdjqar/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/template-canvas.php on line 12
+[03-Nov-2025 04:36:29 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-phpmailer.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-phpmailer.php on line 16
+[03-Nov-2025 04:37:34 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-scripts.php on line 18
+[03-Nov-2025 04:38:22 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-styles.php on line 18
+[03-Nov-2025 04:45:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/zdtdjqar/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/template-canvas.php on line 12
+[14-Nov-2025 03:20:04 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-phpmailer.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-phpmailer.php on line 16
+[14-Nov-2025 03:20:10 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-scripts.php on line 18
+[14-Nov-2025 03:20:13 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-styles.php on line 18
+[14-Nov-2025 03:20:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/zdtdjqar/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/template-canvas.php on line 12
+[24-Nov-2025 20:59:22 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-phpmailer.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-phpmailer.php on line 16
+[24-Nov-2025 20:59:44 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-scripts.php on line 18
+[24-Nov-2025 20:59:58 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-styles.php on line 18
+[24-Nov-2025 21:02:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/zdtdjqar/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/template-canvas.php on line 12
+[28-Nov-2025 14:10:22 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-phpmailer.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-phpmailer.php on line 16
+[28-Nov-2025 14:10:32 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-scripts.php on line 18
+[28-Nov-2025 14:10:40 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-styles.php on line 18
+[28-Nov-2025 14:11:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/zdtdjqar/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/template-canvas.php on line 12
+[29-Nov-2025 02:15:28 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-phpmailer.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-phpmailer.php on line 16
+[29-Nov-2025 02:15:37 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-scripts.php on line 18
+[29-Nov-2025 02:15:42 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-styles.php on line 18
+[29-Nov-2025 02:16:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/zdtdjqar/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/template-canvas.php on line 12
+[11-Dec-2025 22:05:58 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-phpmailer.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-phpmailer.php on line 16
+[11-Dec-2025 22:06:36 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-scripts.php on line 18
+[11-Dec-2025 22:06:59 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-styles.php on line 18
+[11-Dec-2025 22:10:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/zdtdjqar/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/template-canvas.php on line 12
+[11-Dec-2025 22:11:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _wp_can_use_pcre_u() in /home/zdtdjqar/public_html/wp-includes/utf8.php:137
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/utf8.php on line 137
+[15-Dec-2025 02:57:09 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-phpmailer.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-phpmailer.php on line 16
+[15-Dec-2025 02:57:18 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-scripts.php on line 18
+[15-Dec-2025 02:57:24 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-styles.php on line 18
+[15-Dec-2025 02:58:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/zdtdjqar/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/template-canvas.php on line 12
+[15-Dec-2025 02:58:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _wp_can_use_pcre_u() in /home/zdtdjqar/public_html/wp-includes/utf8.php:137
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/utf8.php on line 137
+[15-Dec-2025 13:40:03 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-phpmailer.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-phpmailer.php on line 16
+[15-Dec-2025 13:40:19 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-scripts.php on line 18
+[15-Dec-2025 13:40:27 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-styles.php on line 18
+[15-Dec-2025 13:41:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/zdtdjqar/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/template-canvas.php on line 12
+[15-Dec-2025 13:41:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _wp_can_use_pcre_u() in /home/zdtdjqar/public_html/wp-includes/utf8.php:137
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/utf8.php on line 137
+[15-Dec-2025 17:16:49 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-phpmailer.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-phpmailer.php on line 16
+[15-Dec-2025 17:18:00 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-scripts.php on line 18
+[15-Dec-2025 17:18:58 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-styles.php on line 18
+[15-Dec-2025 17:23:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/zdtdjqar/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/template-canvas.php on line 12
+[15-Dec-2025 17:23:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _wp_can_use_pcre_u() in /home/zdtdjqar/public_html/wp-includes/utf8.php:137
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/utf8.php on line 137
+[17-Dec-2025 10:40:22 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-phpmailer.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-phpmailer.php on line 16
+[17-Dec-2025 10:40:37 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-scripts.php on line 18
+[17-Dec-2025 10:40:46 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-styles.php on line 18
+[17-Dec-2025 10:42:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/zdtdjqar/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/template-canvas.php on line 12
+[17-Dec-2025 10:42:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _wp_can_use_pcre_u() in /home/zdtdjqar/public_html/wp-includes/utf8.php:137
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/utf8.php on line 137
+[17-Dec-2025 21:21:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_theme_support() in /home/zdtdjqar/public_html/wp-includes/block-patterns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/block-patterns.php on line 9
+[17-Dec-2025 21:21:44 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/zdtdjqar/public_html/wp-includes/cache.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/cache.php on line 12
+[17-Dec-2025 21:22:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/zdtdjqar/public_html/wp-includes/class-feed.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-feed.php on line 10
+[17-Dec-2025 21:22:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/zdtdjqar/public_html/wp-includes/class-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-http.php on line 11
+[17-Dec-2025 21:22:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/zdtdjqar/public_html/wp-includes/class-json.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-json.php on line 2
+[17-Dec-2025 21:22:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/zdtdjqar/public_html/wp-includes/class-oembed.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-oembed.php on line 12
+[17-Dec-2025 21:22:24 UTC] PHP Deprecated:  The PSR-0 `Requests_...` class names in the Requests library are deprecated. Switch to the PSR-4 `WpOrg\Requests\...` class names at your earliest convenience. in /home/zdtdjqar/public_html/wp-includes/class-requests.php on line 21
+[17-Dec-2025 21:22:25 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/zdtdjqar/public_html/wp-includes/class-simplepie.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-simplepie.php on line 8
+[17-Dec-2025 21:22:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/zdtdjqar/public_html/wp-includes/class-smtp.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-smtp.php on line 6
+[17-Dec-2025 21:22:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/zdtdjqar/public_html/wp-includes/class-snoopy.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-snoopy.php on line 6
+[17-Dec-2025 21:22:27 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/zdtdjqar/public_html/wp-includes/class-walker-category-dropdown.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-walker-category-dropdown.php on line 17
+[17-Dec-2025 21:22:28 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/zdtdjqar/public_html/wp-includes/class-walker-category.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-walker-category.php on line 17
+[17-Dec-2025 21:22:29 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/zdtdjqar/public_html/wp-includes/class-walker-comment.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-walker-comment.php on line 17
+[17-Dec-2025 21:22:29 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/zdtdjqar/public_html/wp-includes/class-walker-nav-menu.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[17-Dec-2025 21:22:30 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/zdtdjqar/public_html/wp-includes/class-walker-page-dropdown.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-walker-page-dropdown.php on line 17
+[17-Dec-2025 21:22:31 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/zdtdjqar/public_html/wp-includes/class-walker-page.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-walker-page.php on line 17
+[17-Dec-2025 21:22:53 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/zdtdjqar/public_html/wp-includes/class-wp-customize-section.php:408
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-customize-section.php on line 408
+[17-Dec-2025 21:23:01 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-feed-cache-transient.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-feed-cache-transient.php on line 18
+[17-Dec-2025 21:23:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/zdtdjqar/public_html/wp-includes/class-wp-feed-cache.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-feed-cache.php on line 11
+[17-Dec-2025 21:23:06 UTC] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-http-ixr-client.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-http-ixr-client.php on line 9
+[17-Dec-2025 21:23:07 UTC] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Hooks" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-http-requests-hooks.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-http-requests-hooks.php on line 18
+[17-Dec-2025 21:23:08 UTC] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-http-requests-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-http-requests-response.php on line 17
+[17-Dec-2025 21:23:11 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Image_Editor" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-image-editor-gd.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-image-editor-gd.php on line 16
+[17-Dec-2025 21:23:12 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Image_Editor" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-image-editor-imagick.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-image-editor-imagick.php on line 16
+[17-Dec-2025 21:23:33 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-scripts.php on line 18
+[17-Dec-2025 21:23:35 UTC] PHP Fatal error:  Uncaught Error: Class "SimplePie\File" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-simplepie-file.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-simplepie-file.php on line 19
+[17-Dec-2025 21:23:38 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-styles.php on line 18
+[17-Dec-2025 21:23:41 UTC] PHP Fatal error:  Uncaught Error: Class "Text_Diff_Renderer_inline" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-text-diff-renderer-inline.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-text-diff-renderer-inline.php on line 17
+[17-Dec-2025 21:23:48 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Session_Tokens" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-user-meta-session-tokens.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-user-meta-session-tokens.php on line 17
+[17-Dec-2025 21:23:53 UTC] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-xmlrpc-server.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-xmlrpc-server.php on line 24
+[17-Dec-2025 21:23:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/zdtdjqar/public_html/wp-includes/class.wp-dependencies.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class.wp-dependencies.php on line 11
+[17-Dec-2025 21:23:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/zdtdjqar/public_html/wp-includes/class.wp-scripts.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class.wp-scripts.php on line 11
+[17-Dec-2025 21:23:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/zdtdjqar/public_html/wp-includes/class.wp-styles.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class.wp-styles.php on line 11
+[17-Dec-2025 21:25:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/zdtdjqar/public_html/wp-includes/date.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/date.php on line 11
+[17-Dec-2025 21:25:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/zdtdjqar/public_html/wp-includes/embed-template.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/embed-template.php on line 11
+[17-Dec-2025 21:25:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/zdtdjqar/public_html/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/feed-atom-comments.php on line 8
+[17-Dec-2025 21:25:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/zdtdjqar/public_html/wp-includes/feed-rdf.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/feed-rdf.php on line 8
+[17-Dec-2025 21:25:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/zdtdjqar/public_html/wp-includes/feed-rss.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/feed-rss.php on line 8
+[17-Dec-2025 21:25:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/zdtdjqar/public_html/wp-includes/feed-rss2-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/feed-rss2-comments.php on line 8
+[17-Dec-2025 21:25:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/zdtdjqar/public_html/wp-includes/feed-rss2.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/feed-rss2.php on line 8
+[17-Dec-2025 21:29:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/zdtdjqar/public_html/wp-includes/locale.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/locale.php on line 11
+[17-Dec-2025 21:29:32 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/zdtdjqar/public_html/wp-includes/meta.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/meta.php on line 13
+[17-Dec-2025 21:29:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/zdtdjqar/public_html/wp-includes/ms-default-filters.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/ms-default-filters.php on line 16
+[17-Dec-2025 21:30:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/zdtdjqar/public_html/wp-includes/registration-functions.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/registration-functions.php on line 9
+[17-Dec-2025 21:30:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/zdtdjqar/public_html/wp-includes/registration.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/registration.php on line 9
+[17-Dec-2025 21:31:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/zdtdjqar/public_html/wp-includes/rss.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/rss.php on line 19
+[17-Dec-2025 21:31:24 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/zdtdjqar/public_html/wp-includes/script-loader.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/script-loader.php on line 20
+[17-Dec-2025 21:31:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/zdtdjqar/public_html/wp-includes/session.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/session.php on line 9
+[17-Dec-2025 21:32:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/zdtdjqar/public_html/wp-includes/spl-autoload-compat.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/spl-autoload-compat.php on line 14
+[17-Dec-2025 21:33:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/zdtdjqar/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/template-canvas.php on line 12
+[17-Dec-2025 21:33:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_using_themes() in /home/zdtdjqar/public_html/wp-includes/template-loader.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/template-loader.php on line 7
+[19-Dec-2025 01:43:50 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-phpmailer.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-phpmailer.php on line 16
+[19-Dec-2025 01:44:07 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-scripts.php on line 18
+[19-Dec-2025 01:44:17 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-styles.php on line 18
+[19-Dec-2025 01:46:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/zdtdjqar/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/template-canvas.php on line 12
+[19-Dec-2025 01:46:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _wp_can_use_pcre_u() in /home/zdtdjqar/public_html/wp-includes/utf8.php:137
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/utf8.php on line 137
+[21-Dec-2025 14:41:32 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-phpmailer.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-phpmailer.php on line 16
+[21-Dec-2025 14:41:56 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-scripts.php on line 18
+[21-Dec-2025 14:42:17 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-styles.php on line 18
+[21-Dec-2025 14:45:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/zdtdjqar/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/template-canvas.php on line 12
+[21-Dec-2025 14:45:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _wp_can_use_pcre_u() in /home/zdtdjqar/public_html/wp-includes/utf8.php:137
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/utf8.php on line 137
+[23-Dec-2025 04:39:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_theme_support() in /home/zdtdjqar/public_html/wp-includes/block-patterns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/block-patterns.php on line 9
+[23-Dec-2025 04:40:18 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/zdtdjqar/public_html/wp-includes/cache.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/cache.php on line 12
+[23-Dec-2025 04:40:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/zdtdjqar/public_html/wp-includes/class-feed.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-feed.php on line 10
+[23-Dec-2025 04:40:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/zdtdjqar/public_html/wp-includes/class-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-http.php on line 11
+[23-Dec-2025 04:40:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/zdtdjqar/public_html/wp-includes/class-json.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-json.php on line 2
+[23-Dec-2025 04:40:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/zdtdjqar/public_html/wp-includes/class-oembed.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-oembed.php on line 12
+[23-Dec-2025 04:40:26 UTC] PHP Deprecated:  The PSR-0 `Requests_...` class names in the Requests library are deprecated. Switch to the PSR-4 `WpOrg\Requests\...` class names at your earliest convenience. in /home/zdtdjqar/public_html/wp-includes/class-requests.php on line 21
+[23-Dec-2025 04:40:26 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/zdtdjqar/public_html/wp-includes/class-simplepie.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-simplepie.php on line 8
+[23-Dec-2025 04:40:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/zdtdjqar/public_html/wp-includes/class-smtp.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-smtp.php on line 6
+[23-Dec-2025 04:40:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/zdtdjqar/public_html/wp-includes/class-snoopy.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-snoopy.php on line 6
+[23-Dec-2025 04:40:27 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/zdtdjqar/public_html/wp-includes/class-walker-category-dropdown.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-walker-category-dropdown.php on line 17
+[23-Dec-2025 04:40:28 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/zdtdjqar/public_html/wp-includes/class-walker-category.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-walker-category.php on line 17
+[23-Dec-2025 04:40:28 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/zdtdjqar/public_html/wp-includes/class-walker-comment.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-walker-comment.php on line 17
+[23-Dec-2025 04:40:28 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/zdtdjqar/public_html/wp-includes/class-walker-nav-menu.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[23-Dec-2025 04:40:29 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/zdtdjqar/public_html/wp-includes/class-walker-page-dropdown.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-walker-page-dropdown.php on line 17
+[23-Dec-2025 04:40:29 UTC] PHP Fatal error:  Uncaught Error: Class "Walker" not found in /home/zdtdjqar/public_html/wp-includes/class-walker-page.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-walker-page.php on line 17
+[23-Dec-2025 04:40:38 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/zdtdjqar/public_html/wp-includes/class-wp-customize-section.php:408
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-customize-section.php on line 408
+[23-Dec-2025 04:40:42 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-feed-cache-transient.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-feed-cache-transient.php on line 18
+[23-Dec-2025 04:40:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/zdtdjqar/public_html/wp-includes/class-wp-feed-cache.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-feed-cache.php on line 11
+[23-Dec-2025 04:40:44 UTC] PHP Fatal error:  Uncaught Error: Class "IXR_Client" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-http-ixr-client.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-http-ixr-client.php on line 9
+[23-Dec-2025 04:40:44 UTC] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Hooks" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-http-requests-hooks.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-http-requests-hooks.php on line 18
+[23-Dec-2025 04:40:45 UTC] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-http-requests-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-http-requests-response.php on line 17
+[23-Dec-2025 04:40:46 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Image_Editor" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-image-editor-gd.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-image-editor-gd.php on line 16
+[23-Dec-2025 04:40:46 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Image_Editor" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-image-editor-imagick.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-image-editor-imagick.php on line 16
+[23-Dec-2025 04:40:55 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-scripts.php on line 18
+[23-Dec-2025 04:40:56 UTC] PHP Fatal error:  Uncaught Error: Class "SimplePie\File" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-simplepie-file.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-simplepie-file.php on line 19
+[23-Dec-2025 04:40:57 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-styles.php on line 18
+[23-Dec-2025 04:40:59 UTC] PHP Fatal error:  Uncaught Error: Class "Text_Diff_Renderer_inline" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-text-diff-renderer-inline.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-text-diff-renderer-inline.php on line 17
+[23-Dec-2025 04:41:02 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Session_Tokens" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-user-meta-session-tokens.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-user-meta-session-tokens.php on line 17
+[23-Dec-2025 04:41:04 UTC] PHP Fatal error:  Uncaught Error: Class "IXR_Server" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-xmlrpc-server.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-xmlrpc-server.php on line 24
+[23-Dec-2025 04:41:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/zdtdjqar/public_html/wp-includes/class.wp-dependencies.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class.wp-dependencies.php on line 11
+[23-Dec-2025 04:41:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/zdtdjqar/public_html/wp-includes/class.wp-scripts.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class.wp-scripts.php on line 11
+[23-Dec-2025 04:41:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/zdtdjqar/public_html/wp-includes/class.wp-styles.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class.wp-styles.php on line 11
+[23-Dec-2025 04:42:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/zdtdjqar/public_html/wp-includes/date.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/date.php on line 11
+[23-Dec-2025 04:42:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/zdtdjqar/public_html/wp-includes/embed-template.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/embed-template.php on line 11
+[23-Dec-2025 04:42:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/zdtdjqar/public_html/wp-includes/feed-atom-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/feed-atom-comments.php on line 8
+[23-Dec-2025 04:42:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/zdtdjqar/public_html/wp-includes/feed-rdf.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/feed-rdf.php on line 8
+[23-Dec-2025 04:42:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/zdtdjqar/public_html/wp-includes/feed-rss.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/feed-rss.php on line 8
+[23-Dec-2025 04:42:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/zdtdjqar/public_html/wp-includes/feed-rss2-comments.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/feed-rss2-comments.php on line 8
+[23-Dec-2025 04:42:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function feed_content_type() in /home/zdtdjqar/public_html/wp-includes/feed-rss2.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/feed-rss2.php on line 8
+[23-Dec-2025 04:46:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/zdtdjqar/public_html/wp-includes/locale.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/locale.php on line 11
+[23-Dec-2025 04:46:14 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/zdtdjqar/public_html/wp-includes/meta.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/meta.php on line 13
+[23-Dec-2025 04:46:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/zdtdjqar/public_html/wp-includes/ms-default-filters.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/ms-default-filters.php on line 16
+[23-Dec-2025 04:46:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/zdtdjqar/public_html/wp-includes/registration-functions.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/registration-functions.php on line 9
+[23-Dec-2025 04:46:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/zdtdjqar/public_html/wp-includes/registration.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/registration.php on line 9
+[23-Dec-2025 04:47:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/zdtdjqar/public_html/wp-includes/rss.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/rss.php on line 19
+[23-Dec-2025 04:47:09 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/zdtdjqar/public_html/wp-includes/script-loader.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/script-loader.php on line 20
+[23-Dec-2025 04:47:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/zdtdjqar/public_html/wp-includes/session.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/session.php on line 9
+[23-Dec-2025 04:48:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/zdtdjqar/public_html/wp-includes/spl-autoload-compat.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/spl-autoload-compat.php on line 14
+[23-Dec-2025 04:48:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/zdtdjqar/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/template-canvas.php on line 12
+[23-Dec-2025 04:48:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_using_themes() in /home/zdtdjqar/public_html/wp-includes/template-loader.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/template-loader.php on line 7
+[27-Dec-2025 14:11:10 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer\PHPMailer\PHPMailer" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-phpmailer.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-phpmailer.php on line 16
+[27-Dec-2025 14:12:01 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-scripts.php on line 18
+[27-Dec-2025 14:12:35 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/zdtdjqar/public_html/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/class-wp-styles.php on line 18

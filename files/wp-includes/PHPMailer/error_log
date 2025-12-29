@@ -1,0 +1,28 @@
+[11-Dec-2025 22:12:34 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPMailer\PHPMailer\OAuthTokenProvider" not found in /home/zdtdjqar/public_html/wp-includes/PHPMailer/OAuth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/PHPMailer/OAuth.php on line 36
+[15-Dec-2025 02:59:02 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPMailer\PHPMailer\OAuthTokenProvider" not found in /home/zdtdjqar/public_html/wp-includes/PHPMailer/OAuth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/PHPMailer/OAuth.php on line 36
+[15-Dec-2025 13:42:23 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPMailer\PHPMailer\OAuthTokenProvider" not found in /home/zdtdjqar/public_html/wp-includes/PHPMailer/OAuth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/PHPMailer/OAuth.php on line 36
+[15-Dec-2025 17:35:39 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPMailer\PHPMailer\OAuthTokenProvider" not found in /home/zdtdjqar/public_html/wp-includes/PHPMailer/OAuth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/PHPMailer/OAuth.php on line 36
+[17-Dec-2025 10:43:18 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPMailer\PHPMailer\OAuthTokenProvider" not found in /home/zdtdjqar/public_html/wp-includes/PHPMailer/OAuth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/PHPMailer/OAuth.php on line 36
+[19-Dec-2025 01:47:10 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPMailer\PHPMailer\OAuthTokenProvider" not found in /home/zdtdjqar/public_html/wp-includes/PHPMailer/OAuth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/PHPMailer/OAuth.php on line 36
+[21-Dec-2025 14:47:18 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPMailer\PHPMailer\OAuthTokenProvider" not found in /home/zdtdjqar/public_html/wp-includes/PHPMailer/OAuth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/PHPMailer/OAuth.php on line 36

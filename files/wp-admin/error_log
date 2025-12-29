@@ -1,0 +1,377 @@
+[26-May-2025 01:42:41 UTC] Invalid product slug provided "elementor", does not match bsf_product_slugs
+[26-May-2025 01:42:47 UTC] WordPress database error Table 'wp7i_e_events' already exists for query CREATE TABLE `wp7i_e_events` (
+			id bigint(20) unsigned auto_increment primary key,
+			event_data text null,
+			created_at datetime not null
+		) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_520_ci; made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, Elementor\Plugin->init, Elementor\Plugin->init_components, Elementor\Core\Admin\Admin->__construct, Elementor\Plugin->init_common, Elementor\Core\Common\App->init_components, Elementor\Core\Common\Modules\EventTracker\Module->__construct, Elementor\Core\Common\Modules\EventTracker\DB->__construct, Elementor\Core\Common\Modules\EventTracker\DB->create_table
+[26-May-2025 01:42:47 UTC] WordPress database error Duplicate key name 'created_at_index' for query ALTER TABLE wp7i_e_events
+    		ADD INDEX `created_at_index` (`created_at`)
+		 made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, Elementor\Plugin->init, Elementor\Plugin->init_components, Elementor\Core\Admin\Admin->__construct, Elementor\Plugin->init_common, Elementor\Core\Common\App->init_components, Elementor\Core\Common\Modules\EventTracker\Module->__construct, Elementor\Core\Common\Modules\EventTracker\DB->__construct, Elementor\Core\Common\Modules\EventTracker\DB->add_indexes
+[26-May-2025 01:42:47 UTC] Invalid product slug provided "wpforms-lite", does not match bsf_product_slugs
+[26-May-2025 01:42:53 UTC] Array
+(
+    [wp7i_latepoint_recurrences] => Created table wp7i_latepoint_recurrences
+)
+
+[26-May-2025 01:42:53 UTC] Array
+(
+    [wp7i_latepoint_steps] => Created table wp7i_latepoint_steps
+)
+
+[26-May-2025 01:42:53 UTC] Array
+(
+    [wp7i_latepoint_carts] => Created table wp7i_latepoint_carts
+)
+
+[26-May-2025 01:42:53 UTC] Array
+(
+    [wp7i_latepoint_cart_items] => Created table wp7i_latepoint_cart_items
+)
+
+[26-May-2025 01:42:53 UTC] Array
+(
+    [wp7i_latepoint_orders] => Created table wp7i_latepoint_orders
+)
+
+[26-May-2025 01:42:53 UTC] Array
+(
+    [wp7i_latepoint_order_items] => Created table wp7i_latepoint_order_items
+)
+
+[26-May-2025 01:42:53 UTC] Array
+(
+    [wp7i_latepoint_order_intents] => Created table wp7i_latepoint_order_intents
+)
+
+[26-May-2025 01:42:53 UTC] Array
+(
+    [wp7i_latepoint_order_invoices] => Created table wp7i_latepoint_order_invoices
+)
+
+[26-May-2025 01:42:53 UTC] Array
+(
+    [wp7i_latepoint_payment_requests] => Created table wp7i_latepoint_payment_requests
+)
+
+[26-May-2025 01:42:53 UTC] Array
+(
+    [wp7i_latepoint_process_jobs] => Created table wp7i_latepoint_process_jobs
+)
+
+[26-May-2025 01:42:53 UTC] Array
+(
+    [wp7i_latepoint_sessions] => Created table wp7i_latepoint_sessions
+)
+
+[26-May-2025 01:42:53 UTC] Array
+(
+    [wp7i_latepoint_bookings] => Created table wp7i_latepoint_bookings
+)
+
+[26-May-2025 01:42:53 UTC] Array
+(
+    [wp7i_latepoint_blocked_periods] => Created table wp7i_latepoint_blocked_periods
+)
+
+[26-May-2025 01:42:53 UTC] Array
+(
+    [wp7i_latepoint_cart_meta] => Created table wp7i_latepoint_cart_meta
+)
+
+[26-May-2025 01:42:53 UTC] Array
+(
+    [wp7i_latepoint_order_meta] => Created table wp7i_latepoint_order_meta
+)
+
+[26-May-2025 01:42:53 UTC] Array
+(
+    [wp7i_latepoint_booking_meta] => Created table wp7i_latepoint_booking_meta
+)
+
+[26-May-2025 01:42:53 UTC] Array
+(
+    [wp7i_latepoint_processes] => Created table wp7i_latepoint_processes
+)
+
+[26-May-2025 01:42:53 UTC] Array
+(
+    [wp7i_latepoint_service_meta] => Created table wp7i_latepoint_service_meta
+)
+
+[26-May-2025 01:42:53 UTC] Array
+(
+    [wp7i_latepoint_customer_meta] => Created table wp7i_latepoint_customer_meta
+)
+
+[26-May-2025 01:42:53 UTC] Array
+(
+    [wp7i_latepoint_agent_meta] => Created table wp7i_latepoint_agent_meta
+)
+
+[26-May-2025 01:42:53 UTC] Array
+(
+    [wp7i_latepoint_settings] => Created table wp7i_latepoint_settings
+)
+
+[26-May-2025 01:42:53 UTC] Array
+(
+    [wp7i_latepoint_locations] => Created table wp7i_latepoint_locations
+)
+
+[26-May-2025 01:42:53 UTC] Array
+(
+    [wp7i_latepoint_location_categories] => Created table wp7i_latepoint_location_categories
+)
+
+[26-May-2025 01:42:53 UTC] Array
+(
+    [wp7i_latepoint_bundles] => Created table wp7i_latepoint_bundles
+)
+
+[26-May-2025 01:42:53 UTC] Array
+(
+    [wp7i_latepoint_bundles_services] => Created table wp7i_latepoint_bundles_services
+)
+
+[26-May-2025 01:42:53 UTC] Array
+(
+    [wp7i_latepoint_services] => Created table wp7i_latepoint_services
+)
+
+[26-May-2025 01:42:53 UTC] Array
+(
+    [wp7i_latepoint_agents] => Created table wp7i_latepoint_agents
+)
+
+[26-May-2025 01:42:53 UTC] Array
+(
+    [wp7i_latepoint_step_settings] => Created table wp7i_latepoint_step_settings
+)
+
+[26-May-2025 01:42:53 UTC] Array
+(
+    [wp7i_latepoint_customers] => Created table wp7i_latepoint_customers
+)
+
+[26-May-2025 01:42:53 UTC] Array
+(
+    [wp7i_latepoint_service_categories] => Created table wp7i_latepoint_service_categories
+)
+
+[26-May-2025 01:42:53 UTC] Array
+(
+    [wp7i_latepoint_custom_prices] => Created table wp7i_latepoint_custom_prices
+)
+
+[26-May-2025 01:42:53 UTC] Array
+(
+    [wp7i_latepoint_work_periods] => Created table wp7i_latepoint_work_periods
+)
+
+[26-May-2025 01:42:54 UTC] Array
+(
+    [wp7i_latepoint_agents_services] => Created table wp7i_latepoint_agents_services
+)
+
+[26-May-2025 01:42:54 UTC] Array
+(
+    [wp7i_latepoint_activities] => Created table wp7i_latepoint_activities
+)
+
+[26-May-2025 01:42:54 UTC] Array
+(
+    [wp7i_latepoint_transaction_intents] => Created table wp7i_latepoint_transaction_intents
+)
+
+[26-May-2025 01:42:54 UTC] Array
+(
+    [wp7i_latepoint_transactions] => Created table wp7i_latepoint_transactions
+)
+
+[26-May-2025 01:42:54 UTC] Array
+(
+    [wp7i_latepoint_transaction_refunds] => Created table wp7i_latepoint_transaction_refunds
+)
+
+[26-May-2025 01:42:54 UTC] Array
+(
+)
+
+[26-May-2025 01:42:54 UTC] Array
+(
+    [wp7i_latepoint_steps.id] => Changed type of wp7i_latepoint_steps.id from bigint(20) unsigned to BIGINT UNSIGNED
+    [wp7i_latepoint_steps.use_custom_image] => Changed type of wp7i_latepoint_steps.use_custom_image from tinyint(1) to boolean
+)
+
+[26-May-2025 01:42:54 UTC] Array
+(
+    [wp7i_latepoint_carts.id] => Changed type of wp7i_latepoint_carts.id from bigint(20) unsigned to BIGINT UNSIGNED
+)
+
+[26-May-2025 01:42:54 UTC] Array
+(
+    [wp7i_latepoint_cart_items.id] => Changed type of wp7i_latepoint_cart_items.id from bigint(20) unsigned to BIGINT UNSIGNED
+)
+
+[26-May-2025 01:42:54 UTC] Array
+(
+    [wp7i_latepoint_orders.id] => Changed type of wp7i_latepoint_orders.id from bigint(20) unsigned to BIGINT UNSIGNED
+)
+
+[26-May-2025 01:42:54 UTC] Array
+(
+    [wp7i_latepoint_order_items.id] => Changed type of wp7i_latepoint_order_items.id from bigint(20) unsigned to BIGINT UNSIGNED
+)
+
+[26-May-2025 01:42:54 UTC] Array
+(
+    [wp7i_latepoint_order_intents.id] => Changed type of wp7i_latepoint_order_intents.id from bigint(20) unsigned to BIGINT UNSIGNED
+)
+
+[26-May-2025 01:42:54 UTC] Array
+(
+    [wp7i_latepoint_order_invoices.id] => Changed type of wp7i_latepoint_order_invoices.id from bigint(20) unsigned to BIGINT UNSIGNED
+)
+
+[26-May-2025 01:42:54 UTC] Array
+(
+    [wp7i_latepoint_payment_requests.id] => Changed type of wp7i_latepoint_payment_requests.id from bigint(20) unsigned to BIGINT UNSIGNED
+)
+
+[26-May-2025 01:42:54 UTC] Array
+(
+    [wp7i_latepoint_process_jobs.id] => Changed type of wp7i_latepoint_process_jobs.id from bigint(20) unsigned to BIGINT UNSIGNED
+)
+
+[26-May-2025 01:42:54 UTC] Array
+(
+    [wp7i_latepoint_sessions.id] => Changed type of wp7i_latepoint_sessions.id from bigint(20) unsigned to BIGINT UNSIGNED
+    [wp7i_latepoint_sessions.expiration] => Changed type of wp7i_latepoint_sessions.expiration from bigint(20) unsigned to BIGINT UNSIGNED
+)
+
+[26-May-2025 01:42:54 UTC] Array
+(
+)
+
+[26-May-2025 01:42:54 UTC] Array
+(
+)
+
+[26-May-2025 01:42:54 UTC] Array
+(
+)
+
+[26-May-2025 01:42:54 UTC] Array
+(
+)
+
+[26-May-2025 01:42:54 UTC] Array
+(
+)
+
+[26-May-2025 01:42:54 UTC] Array
+(
+)
+
+[26-May-2025 01:42:54 UTC] Array
+(
+)
+
+[26-May-2025 01:42:54 UTC] Array
+(
+)
+
+[26-May-2025 01:42:54 UTC] Array
+(
+)
+
+[26-May-2025 01:42:54 UTC] Array
+(
+)
+
+[26-May-2025 01:42:54 UTC] Array
+(
+)
+
+[26-May-2025 01:42:54 UTC] Array
+(
+)
+
+[26-May-2025 01:42:54 UTC] Array
+(
+)
+
+[26-May-2025 01:42:54 UTC] Array
+(
+)
+
+[26-May-2025 01:42:54 UTC] Array
+(
+    [wp7i_latepoint_services.is_price_variable] => Changed type of wp7i_latepoint_services.is_price_variable from tinyint(1) to boolean
+    [wp7i_latepoint_services.is_deposit_required] => Changed type of wp7i_latepoint_services.is_deposit_required from tinyint(1) to boolean
+)
+
+[26-May-2025 01:42:54 UTC] Array
+(
+    [wp7i_latepoint_agents.custom_hours] => Changed type of wp7i_latepoint_agents.custom_hours from tinyint(1) to boolean
+)
+
+[26-May-2025 01:42:54 UTC] Array
+(
+)
+
+[26-May-2025 01:42:54 UTC] Array
+(
+    [wp7i_latepoint_customers.is_guest] => Changed type of wp7i_latepoint_customers.is_guest from tinyint(1) to boolean
+)
+
+[26-May-2025 01:42:54 UTC] Array
+(
+)
+
+[26-May-2025 01:42:54 UTC] Array
+(
+    [wp7i_latepoint_custom_prices.is_price_variable] => Changed type of wp7i_latepoint_custom_prices.is_price_variable from tinyint(1) to boolean
+    [wp7i_latepoint_custom_prices.is_deposit_required] => Changed type of wp7i_latepoint_custom_prices.is_deposit_required from tinyint(1) to boolean
+)
+
+[26-May-2025 01:42:54 UTC] Array
+(
+)
+
+[26-May-2025 01:42:54 UTC] Array
+(
+    [wp7i_latepoint_agents_services.is_custom_hours] => Changed type of wp7i_latepoint_agents_services.is_custom_hours from tinyint(1) to BOOLEAN
+    [wp7i_latepoint_agents_services.is_custom_price] => Changed type of wp7i_latepoint_agents_services.is_custom_price from tinyint(1) to BOOLEAN
+    [wp7i_latepoint_agents_services.is_custom_duration] => Changed type of wp7i_latepoint_agents_services.is_custom_duration from tinyint(1) to BOOLEAN
+)
+
+[26-May-2025 01:42:54 UTC] Array
+(
+)
+
+[26-May-2025 01:42:54 UTC] Array
+(
+    [wp7i_latepoint_transaction_intents.id] => Changed type of wp7i_latepoint_transaction_intents.id from bigint(20) unsigned to BIGINT UNSIGNED
+)
+
+[26-May-2025 01:42:54 UTC] Array
+(
+)
+
+[26-May-2025 01:42:54 UTC] Array
+(
+)
+
+[26-May-2025 01:42:55 UTC] Invalid product slug provided "wp-live-chat-support", does not match bsf_product_slugs
+[30-May-2025 05:27:31 UTC] Invalid url passed to get_utm_ready_link function
+[30-May-2025 05:27:31 UTC] Invalid url passed to get_utm_ready_link function
+[28-Dec-2025 20:18:27 UTC] Astra Addon: Batch Process Started!
+[28-Dec-2025 20:18:27 UTC] Astra Addon: Queuing 4.11.3 - astra_addon_background_updater_4_11_3
+[28-Dec-2025 20:18:28 UTC] Astra Addon: DB version updated!
+[28-Dec-2025 20:18:28 UTC] Astra Addon: Batch Process Completed!
+[28-Dec-2025 20:18:28 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT option_value FROM wp7i_options WHERE option_name = 'action_scheduler_lock_async-request-runner' made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->maybe_dispatch_async_request, ActionScheduler_Lock->is_locked, ActionScheduler_OptionLock->get_expiration, ActionScheduler_OptionLock->get_existing_lock
+[28-Dec-2025 20:18:28 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT option_value FROM wp7i_options WHERE option_name = 'action_scheduler_lock_async-request-runner' made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->maybe_dispatch_async_request, ActionScheduler_OptionLock->set, ActionScheduler_OptionLock->get_existing_lock
+[28-Dec-2025 20:18:28 UTC] WordPress database error Commands out of sync; you can't run this command now for query INSERT INTO `wp7i_options` (`option_name`, `option_value`, `autoload`) VALUES ('action_scheduler_lock_async-request-runner', '6951909422dfa7.48686026|1766953168', 'no') made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->maybe_dispatch_async_request, ActionScheduler_OptionLock->set
+[28-Dec-2025 20:18:28 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT option_name, option_value FROM wp7i_options WHERE option_name IN ('_transient_doing_cron','_transient_timeout_doing_cron') made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, _wp_cron, spawn_cron, get_transient, wp_prime_option_caches
+[28-Dec-2025 20:18:28 UTC] WordPress database error Commands out of sync; you can't run this command now for query INSERT INTO `wp7i_options` (`option_name`, `option_value`, `autoload`) VALUES ('_transient_doing_cron', '1766953108.1430389881134033203125', 'on') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`) made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, _wp_cron, spawn_cron, set_transient, add_option

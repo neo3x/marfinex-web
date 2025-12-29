@@ -1,0 +1,8 @@
+[17-Dec-2025 21:16:56 UTC] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\HookManager" not found in /home/zdtdjqar/public_html/wp-includes/Requests/src/Hooks.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/Requests/src/Hooks.php on line 19
+[23-Dec-2025 04:37:20 UTC] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\HookManager" not found in /home/zdtdjqar/public_html/wp-includes/Requests/src/Hooks.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/Requests/src/Hooks.php on line 19

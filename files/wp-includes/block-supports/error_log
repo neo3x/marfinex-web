@@ -1,0 +1,128 @@
+[17-Dec-2025 21:21:25 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/zdtdjqar/public_html/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/block-supports/align.php on line 59
+[17-Dec-2025 21:21:26 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/zdtdjqar/public_html/wp-includes/block-supports/background.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/block-supports/background.php on line 108
+[17-Dec-2025 21:21:26 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/zdtdjqar/public_html/wp-includes/block-supports/block-style-variations.php:251
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/block-supports/block-style-variations.php on line 251
+[17-Dec-2025 21:21:27 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/zdtdjqar/public_html/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/block-supports/border.php on line 170
+[17-Dec-2025 21:21:28 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/zdtdjqar/public_html/wp-includes/block-supports/colors.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/block-supports/colors.php on line 138
+[17-Dec-2025 21:21:29 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/zdtdjqar/public_html/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/block-supports/custom-classname.php on line 59
+[17-Dec-2025 21:21:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/zdtdjqar/public_html/wp-includes/block-supports/dimensions.php:164
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/block-supports/dimensions.php on line 164
+[17-Dec-2025 21:21:30 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/zdtdjqar/public_html/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/block-supports/duotone.php on line 36
+[17-Dec-2025 21:21:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/zdtdjqar/public_html/wp-includes/block-supports/elements.php:263
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/block-supports/elements.php on line 263
+[17-Dec-2025 21:21:31 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/zdtdjqar/public_html/wp-includes/block-supports/generated-classname.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/block-supports/generated-classname.php on line 66
+[17-Dec-2025 21:21:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/zdtdjqar/public_html/wp-includes/block-supports/layout.php:981
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/block-supports/layout.php on line 981
+[17-Dec-2025 21:21:33 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/zdtdjqar/public_html/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/block-supports/position.php on line 145
+[17-Dec-2025 21:21:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/zdtdjqar/public_html/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/block-supports/settings.php on line 151
+[17-Dec-2025 21:21:34 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/zdtdjqar/public_html/wp-includes/block-supports/shadow.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/block-supports/shadow.php on line 79
+[17-Dec-2025 21:21:35 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/zdtdjqar/public_html/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/block-supports/spacing.php on line 83
+[17-Dec-2025 21:21:35 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/zdtdjqar/public_html/wp-includes/block-supports/typography.php:703
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/block-supports/typography.php on line 703
+[23-Dec-2025 04:40:06 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/zdtdjqar/public_html/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/block-supports/align.php on line 59
+[23-Dec-2025 04:40:06 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/zdtdjqar/public_html/wp-includes/block-supports/background.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/block-supports/background.php on line 108
+[23-Dec-2025 04:40:07 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/zdtdjqar/public_html/wp-includes/block-supports/block-style-variations.php:251
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/block-supports/block-style-variations.php on line 251
+[23-Dec-2025 04:40:07 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/zdtdjqar/public_html/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/block-supports/border.php on line 170
+[23-Dec-2025 04:40:07 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/zdtdjqar/public_html/wp-includes/block-supports/colors.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/block-supports/colors.php on line 138
+[23-Dec-2025 04:40:08 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/zdtdjqar/public_html/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/block-supports/custom-classname.php on line 59
+[23-Dec-2025 04:40:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/zdtdjqar/public_html/wp-includes/block-supports/dimensions.php:164
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/block-supports/dimensions.php on line 164
+[23-Dec-2025 04:40:08 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/zdtdjqar/public_html/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/block-supports/duotone.php on line 36
+[23-Dec-2025 04:40:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/zdtdjqar/public_html/wp-includes/block-supports/elements.php:263
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/block-supports/elements.php on line 263
+[23-Dec-2025 04:40:09 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/zdtdjqar/public_html/wp-includes/block-supports/generated-classname.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/block-supports/generated-classname.php on line 66
+[23-Dec-2025 04:40:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/zdtdjqar/public_html/wp-includes/block-supports/layout.php:981
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/block-supports/layout.php on line 981
+[23-Dec-2025 04:40:10 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/zdtdjqar/public_html/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/block-supports/position.php on line 145
+[23-Dec-2025 04:40:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/zdtdjqar/public_html/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/block-supports/settings.php on line 151
+[23-Dec-2025 04:40:10 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/zdtdjqar/public_html/wp-includes/block-supports/shadow.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/block-supports/shadow.php on line 79
+[23-Dec-2025 04:40:10 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/zdtdjqar/public_html/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/block-supports/spacing.php on line 83
+[23-Dec-2025 04:40:11 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/zdtdjqar/public_html/wp-includes/block-supports/typography.php:703
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/block-supports/typography.php on line 703

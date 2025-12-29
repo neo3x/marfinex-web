@@ -1,0 +1,8 @@
+[17-Dec-2025 21:17:00 UTC] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Proxy" not found in /home/zdtdjqar/public_html/wp-includes/Requests/src/Proxy/Http.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/Requests/src/Proxy/Http.php on line 24
+[23-Dec-2025 04:37:22 UTC] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Proxy" not found in /home/zdtdjqar/public_html/wp-includes/Requests/src/Proxy/Http.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/zdtdjqar/public_html/wp-includes/Requests/src/Proxy/Http.php on line 24
