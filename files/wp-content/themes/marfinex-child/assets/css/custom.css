@@ -1,0 +1,489 @@
+/**
+ * Marfinex Custom Styles
+ * Minimal & Professional Design
+ */
+
+/* ========================================
+   CSS Variables
+   ======================================== */
+:root {
+	--mfx-primary: #0f172a;
+	--mfx-secondary: #1e293b;
+	--mfx-accent: #3b82f6;
+	--mfx-accent-light: #60a5fa;
+	--mfx-text: #334155;
+	--mfx-text-light: #64748b;
+	--mfx-white: #ffffff;
+	--mfx-gray-50: #f8fafc;
+	--mfx-gray-100: #f1f5f9;
+	--mfx-gray-200: #e2e8f0;
+	--mfx-success: #10b981;
+	--mfx-radius: 8px;
+	--mfx-radius-lg: 16px;
+	--mfx-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+	--mfx-shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+	--mfx-transition: all 0.3s ease;
+}
+
+/* ========================================
+   Icon Styles
+   ======================================== */
+.marfinex-icon {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	flex-shrink: 0;
+}
+
+.service-icon-svg {
+	color: var(--mfx-accent);
+	transition: var(--mfx-transition);
+}
+
+.btn-icon {
+	margin-left: 8px;
+	vertical-align: middle;
+}
+
+/* ========================================
+   Buttons
+   ======================================== */
+.marfinex-btn {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	padding: 12px 28px;
+	font-size: 15px;
+	font-weight: 500;
+	text-decoration: none;
+	border-radius: var(--mfx-radius);
+	transition: var(--mfx-transition);
+	cursor: pointer;
+	border: none;
+	gap: 8px;
+}
+
+.marfinex-btn-primary {
+	background: var(--mfx-accent);
+	color: var(--mfx-white);
+}
+
+.marfinex-btn-primary:hover {
+	background: var(--mfx-accent-light);
+	color: var(--mfx-white);
+	transform: translateY(-2px);
+	box-shadow: var(--mfx-shadow-lg);
+}
+
+.marfinex-btn-secondary {
+	background: transparent;
+	color: var(--mfx-primary);
+	border: 1px solid var(--mfx-gray-200);
+}
+
+.marfinex-btn-secondary:hover {
+	background: var(--mfx-gray-50);
+	border-color: var(--mfx-accent);
+	color: var(--mfx-accent);
+}
+
+/* ========================================
+   Service Cards
+   ======================================== */
+.marfinex-service-card {
+	background: var(--mfx-white);
+	padding: 32px;
+	border-radius: var(--mfx-radius-lg);
+	border: 1px solid var(--mfx-gray-200);
+	transition: var(--mfx-transition);
+	text-align: left;
+}
+
+.marfinex-service-card:hover {
+	border-color: var(--mfx-accent);
+	box-shadow: var(--mfx-shadow-lg);
+	transform: translateY(-4px);
+}
+
+.marfinex-service-card .service-icon {
+	width: 64px;
+	height: 64px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background: var(--mfx-gray-50);
+	border-radius: var(--mfx-radius);
+	margin-bottom: 20px;
+}
+
+.marfinex-service-card:hover .service-icon {
+	background: rgba(59, 130, 246, 0.1);
+}
+
+.marfinex-service-card .service-title {
+	font-size: 20px;
+	font-weight: 600;
+	color: var(--mfx-primary);
+	margin: 0 0 12px 0;
+}
+
+.marfinex-service-card .service-description {
+	font-size: 15px;
+	color: var(--mfx-text-light);
+	line-height: 1.6;
+	margin: 0;
+}
+
+/* ========================================
+   Stats
+   ======================================== */
+.marfinex-stat {
+	text-align: center;
+	padding: 20px;
+}
+
+.marfinex-stat .stat-number {
+	display: block;
+	font-size: 48px;
+	font-weight: 700;
+	color: var(--mfx-primary);
+	line-height: 1;
+	margin-bottom: 8px;
+}
+
+.marfinex-stat .stat-label {
+	display: block;
+	font-size: 14px;
+	color: var(--mfx-text-light);
+	text-transform: uppercase;
+	letter-spacing: 1px;
+}
+
+/* ========================================
+   Hero Sections
+   ======================================== */
+.mfx-hero {
+	padding: 100px 0;
+	text-align: center;
+}
+
+.mfx-hero-title {
+	font-size: clamp(36px, 5vw, 64px);
+	font-weight: 700;
+	color: var(--mfx-primary);
+	margin-bottom: 20px;
+	line-height: 1.1;
+}
+
+.mfx-hero-subtitle {
+	font-size: 18px;
+	color: var(--mfx-text-light);
+	max-width: 600px;
+	margin: 0 auto 32px;
+	line-height: 1.6;
+}
+
+/* ========================================
+   Section Styles
+   ======================================== */
+.mfx-section {
+	padding: 80px 0;
+}
+
+.mfx-section-gray {
+	background: var(--mfx-gray-50);
+}
+
+.mfx-section-title {
+	font-size: 36px;
+	font-weight: 600;
+	color: var(--mfx-primary);
+	margin-bottom: 16px;
+}
+
+.mfx-section-subtitle {
+	font-size: 16px;
+	color: var(--mfx-text-light);
+	max-width: 500px;
+}
+
+/* ========================================
+   Feature List
+   ======================================== */
+.mfx-feature-list {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+.mfx-feature-list li {
+	display: flex;
+	align-items: flex-start;
+	gap: 12px;
+	padding: 12px 0;
+	color: var(--mfx-text);
+}
+
+.mfx-feature-list li svg {
+	color: var(--mfx-success);
+	flex-shrink: 0;
+	margin-top: 2px;
+}
+
+/* ========================================
+   Contact Info
+   ======================================== */
+.mfx-contact-item {
+	display: flex;
+	align-items: center;
+	gap: 16px;
+	padding: 16px 0;
+	color: var(--mfx-text);
+}
+
+.mfx-contact-item svg {
+	color: var(--mfx-accent);
+	flex-shrink: 0;
+}
+
+.mfx-contact-item a {
+	color: var(--mfx-text);
+	text-decoration: none;
+	transition: var(--mfx-transition);
+}
+
+.mfx-contact-item a:hover {
+	color: var(--mfx-accent);
+}
+
+/* ========================================
+   Project Cards
+   ======================================== */
+.mfx-project-card {
+	background: var(--mfx-white);
+	border-radius: var(--mfx-radius-lg);
+	overflow: hidden;
+	border: 1px solid var(--mfx-gray-200);
+	transition: var(--mfx-transition);
+}
+
+.mfx-project-card:hover {
+	box-shadow: var(--mfx-shadow-lg);
+	transform: translateY(-4px);
+}
+
+.mfx-project-card-image {
+	aspect-ratio: 16/10;
+	background: var(--mfx-gray-100);
+	overflow: hidden;
+}
+
+.mfx-project-card-image img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	transition: var(--mfx-transition);
+}
+
+.mfx-project-card:hover .mfx-project-card-image img {
+	transform: scale(1.05);
+}
+
+.mfx-project-card-content {
+	padding: 24px;
+}
+
+.mfx-project-card-category {
+	font-size: 12px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	color: var(--mfx-accent);
+	margin-bottom: 8px;
+}
+
+.mfx-project-card-title {
+	font-size: 18px;
+	font-weight: 600;
+	color: var(--mfx-primary);
+	margin: 0 0 8px 0;
+}
+
+.mfx-project-card-description {
+	font-size: 14px;
+	color: var(--mfx-text-light);
+	line-height: 1.5;
+	margin: 0;
+}
+
+/* ========================================
+   Values/About Cards
+   ======================================== */
+.mfx-value-card {
+	text-align: center;
+	padding: 32px 24px;
+}
+
+.mfx-value-card .value-icon {
+	width: 72px;
+	height: 72px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background: var(--mfx-gray-50);
+	border-radius: 50%;
+	margin: 0 auto 20px;
+}
+
+.mfx-value-card .value-icon svg {
+	color: var(--mfx-accent);
+}
+
+.mfx-value-card .value-title {
+	font-size: 18px;
+	font-weight: 600;
+	color: var(--mfx-primary);
+	margin-bottom: 8px;
+}
+
+.mfx-value-card .value-description {
+	font-size: 14px;
+	color: var(--mfx-text-light);
+	line-height: 1.6;
+}
+
+/* ========================================
+   Process Steps
+   ======================================== */
+.mfx-process-step {
+	display: flex;
+	align-items: flex-start;
+	gap: 20px;
+	padding: 24px 0;
+}
+
+.mfx-process-step .step-number {
+	width: 48px;
+	height: 48px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background: var(--mfx-accent);
+	color: var(--mfx-white);
+	font-size: 18px;
+	font-weight: 600;
+	border-radius: 50%;
+	flex-shrink: 0;
+}
+
+.mfx-process-step .step-content h4 {
+	font-size: 18px;
+	font-weight: 600;
+	color: var(--mfx-primary);
+	margin: 0 0 8px 0;
+}
+
+.mfx-process-step .step-content p {
+	font-size: 15px;
+	color: var(--mfx-text-light);
+	margin: 0;
+	line-height: 1.6;
+}
+
+/* ========================================
+   Form Styles
+   ======================================== */
+.mfx-form input,
+.mfx-form textarea,
+.mfx-form select {
+	width: 100%;
+	padding: 14px 16px;
+	font-size: 15px;
+	border: 1px solid var(--mfx-gray-200);
+	border-radius: var(--mfx-radius);
+	background: var(--mfx-white);
+	transition: var(--mfx-transition);
+}
+
+.mfx-form input:focus,
+.mfx-form textarea:focus,
+.mfx-form select:focus {
+	outline: none;
+	border-color: var(--mfx-accent);
+	box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.1);
+}
+
+.mfx-form textarea {
+	min-height: 150px;
+	resize: vertical;
+}
+
+.mfx-form label {
+	display: block;
+	font-size: 14px;
+	font-weight: 500;
+	color: var(--mfx-primary);
+	margin-bottom: 8px;
+}
+
+/* ========================================
+   Testimonial
+   ======================================== */
+.mfx-testimonial {
+	background: var(--mfx-white);
+	padding: 32px;
+	border-radius: var(--mfx-radius-lg);
+	border: 1px solid var(--mfx-gray-200);
+}
+
+.mfx-testimonial-text {
+	font-size: 16px;
+	color: var(--mfx-text);
+	line-height: 1.7;
+	font-style: italic;
+	margin-bottom: 20px;
+}
+
+.mfx-testimonial-author {
+	display: flex;
+	align-items: center;
+	gap: 12px;
+}
+
+.mfx-testimonial-author-image {
+	width: 48px;
+	height: 48px;
+	border-radius: 50%;
+	object-fit: cover;
+}
+
+.mfx-testimonial-author-name {
+	font-weight: 600;
+	color: var(--mfx-primary);
+	font-size: 15px;
+}
+
+.mfx-testimonial-author-title {
+	font-size: 13px;
+	color: var(--mfx-text-light);
+}
+
+/* ========================================
+   Responsive
+   ======================================== */
+@media (max-width: 768px) {
+	.mfx-hero {
+		padding: 60px 0;
+	}
+
+	.mfx-section {
+		padding: 50px 0;
+	}
+
+	.marfinex-service-card {
+		padding: 24px;
+	}
+
+	.mfx-stat .stat-number {
+		font-size: 36px;
+	}
+}

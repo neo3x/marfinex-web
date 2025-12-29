@@ -1,0 +1,229 @@
+[
+  {
+    "id": "contact-hero",
+    "elType": "section",
+    "settings": {
+      "padding": {"unit": "px", "top": "100", "bottom": "60"}
+    },
+    "elements": [
+      {
+        "id": "hero-col",
+        "elType": "column",
+        "settings": {"_column_size": 100},
+        "elements": [
+          {
+            "id": "hero-title",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+              "title": "Hablemos",
+              "align": "center",
+              "title_color": "#0f172a",
+              "typography_font_size": {"unit": "px", "size": 48}
+            }
+          },
+          {
+            "id": "hero-subtitle",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<p style=\"text-align: center; color: #64748b; font-size: 18px; max-width: 500px; margin: 0 auto;\">Estamos aqui para ayudarte. Cuentanos sobre tu proyecto y te responderemos pronto.</p>"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "contact-main",
+    "elType": "section",
+    "settings": {
+      "padding": {"unit": "px", "top": "40", "bottom": "80"}
+    },
+    "elements": [
+      {
+        "id": "contact-info-col",
+        "elType": "column",
+        "settings": {"_column_size": 40},
+        "elements": [
+          {
+            "id": "info-title",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+              "title": "Informacion de contacto",
+              "header_size": "h3",
+              "title_color": "#0f172a",
+              "typography_font_size": {"unit": "px", "size": 24}
+            }
+          },
+          {
+            "id": "info-email",
+            "elType": "widget",
+            "widgetType": "icon-list",
+            "settings": {
+              "icon_list": [
+                {
+                  "text": "hello@marfinex.com",
+                  "selected_icon": {"value": "fas fa-envelope", "library": "fa-solid"},
+                  "link": {"url": "mailto:hello@marfinex.com"}
+                }
+              ],
+              "icon_color": "#3b82f6",
+              "text_color": "#334155"
+            }
+          },
+          {
+            "id": "info-location",
+            "elType": "widget",
+            "widgetType": "icon-list",
+            "settings": {
+              "icon_list": [
+                {
+                  "text": "Remoto - Global",
+                  "selected_icon": {"value": "fas fa-map-marker-alt", "library": "fa-solid"}
+                }
+              ],
+              "icon_color": "#3b82f6",
+              "text_color": "#334155"
+            }
+          },
+          {
+            "id": "info-schedule",
+            "elType": "widget",
+            "widgetType": "icon-list",
+            "settings": {
+              "icon_list": [
+                {
+                  "text": "Lunes a Viernes, 9:00 - 18:00",
+                  "selected_icon": {"value": "fas fa-clock", "library": "fa-solid"}
+                }
+              ],
+              "icon_color": "#3b82f6",
+              "text_color": "#334155"
+            }
+          },
+          {
+            "id": "info-divider",
+            "elType": "widget",
+            "widgetType": "divider",
+            "settings": {
+              "style": "solid",
+              "color": "#e2e8f0"
+            }
+          },
+          {
+            "id": "info-cta",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+              "title": "¿Prefieres agendar una llamada?",
+              "header_size": "h4",
+              "title_color": "#0f172a",
+              "typography_font_size": {"unit": "px", "size": 18}
+            }
+          },
+          {
+            "id": "info-cta-text",
+            "elType": "widget",
+            "widgetType": "text-editor",
+            "settings": {
+              "editor": "<p style=\"color: #64748b; font-size: 14px;\">Reserva un espacio en nuestro calendario y conversemos directamente.</p>"
+            }
+          },
+          {
+            "id": "info-cta-button",
+            "elType": "widget",
+            "widgetType": "button",
+            "settings": {
+              "text": "Agendar Llamada",
+              "link": {"url": "#", "custom_attributes": "data-latepoint-booking|"},
+              "background_color": "#0f172a",
+              "button_text_color": "#ffffff",
+              "border_radius": {"unit": "px", "size": 8}
+            }
+          }
+        ]
+      },
+      {
+        "id": "contact-form-col",
+        "elType": "column",
+        "settings": {"_column_size": 60},
+        "elements": [
+          {
+            "id": "form-container",
+            "elType": "widget",
+            "widgetType": "html",
+            "settings": {
+              "html": "<div class=\"mfx-form\" style=\"background: #f8fafc; padding: 40px; border-radius: 16px;\">\n<h3 style=\"margin: 0 0 24px; color: #0f172a; font-size: 24px;\">Enviar mensaje</h3>\n[wpforms id=\"FORM_ID\" title=\"false\"]\n</div>"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "contact-faq",
+    "elType": "section",
+    "settings": {
+      "padding": {"unit": "px", "top": "80", "bottom": "80"},
+      "background_background": "classic",
+      "background_color": "#f8fafc"
+    },
+    "elements": [
+      {
+        "id": "faq-title-col",
+        "elType": "column",
+        "settings": {"_column_size": 100},
+        "elements": [
+          {
+            "id": "faq-title",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+              "title": "Preguntas frecuentes",
+              "align": "center",
+              "title_color": "#0f172a",
+              "typography_font_size": {"unit": "px", "size": 32}
+            }
+          }
+        ]
+      },
+      {
+        "id": "faq-content",
+        "elType": "column",
+        "settings": {"_column_size": 100, "_column_max_width": {"unit": "px", "size": 800}},
+        "elements": [
+          {
+            "id": "faq-accordion",
+            "elType": "widget",
+            "widgetType": "accordion",
+            "settings": {
+              "tabs": [
+                {
+                  "tab_title": "¿Cual es el tiempo de respuesta a consultas?",
+                  "tab_content": "Respondemos todas las consultas en menos de 24 horas habiles. Para urgencias, ofrecemos soporte prioritario."
+                },
+                {
+                  "tab_title": "¿Trabajan con empresas de cualquier tamaño?",
+                  "tab_content": "Si, trabajamos tanto con startups como con grandes corporaciones. Adaptamos nuestras soluciones a las necesidades y presupuesto de cada cliente."
+                },
+                {
+                  "tab_title": "¿Ofrecen servicios de forma remota?",
+                  "tab_content": "Absolutamente. Trabajamos de forma remota con clientes alrededor del mundo. Las herramientas modernas nos permiten colaborar eficientemente sin importar la ubicacion."
+                },
+                {
+                  "tab_title": "¿Como es el proceso de contratacion?",
+                  "tab_content": "Comenzamos con una llamada de descubrimiento gratuita para entender tus necesidades. Luego preparamos una propuesta detallada y, una vez aprobada, iniciamos el proyecto."
+                }
+              ],
+              "title_color": "#0f172a",
+              "content_color": "#64748b",
+              "border_color": "#e2e8f0"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
