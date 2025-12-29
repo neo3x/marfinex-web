@@ -1,0 +1,428 @@
+<!-- PÁGINA SERVICES - MARFINEX -->
+<style>
+.mfx-services { margin: 0 !important; padding: 0 !important; width: 100vw !important; position: relative; left: 50% !important; margin-left: -50vw !important; }
+.mfx-services * { box-sizing: border-box; }
+
+/* Hero */
+.mfx-services-hero {
+    min-height: 60vh;
+    background: linear-gradient(135deg, #ffffff 0%, #f8fafc 50%, #f1f5f9 100%);
+    position: relative;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    padding: 5rem 0;
+}
+.mfx-services-hero::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background:
+        radial-gradient(circle at 20% 40%, rgba(52, 189, 189, 0.1) 0%, transparent 40%),
+        radial-gradient(circle at 80% 60%, rgba(102, 126, 234, 0.08) 0%, transparent 50%);
+    animation: breathe 8s ease-in-out infinite alternate;
+}
+@keyframes breathe { 0% { opacity: 0.6; } 100% { opacity: 1; } }
+
+.mfx-container { max-width: 1200px; margin: 0 auto; padding: 0 2rem; position: relative; z-index: 2; }
+
+.mfx-services-header { text-align: center; max-width: 700px; margin: 0 auto; }
+.mfx-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    background: rgba(52, 189, 189, 0.1);
+    border: 1px solid rgba(52, 189, 189, 0.2);
+    border-radius: 50px;
+    padding: 0.5rem 1.2rem;
+    font-size: 0.9rem;
+    color: #34bdbd;
+    font-weight: 600;
+    margin-bottom: 1.5rem;
+    animation: fadeInUp 1s ease-out;
+}
+.mfx-title {
+    font-size: clamp(2.5rem, 5vw, 4rem);
+    font-weight: 800;
+    line-height: 1.2;
+    color: #1A202C;
+    margin-bottom: 1.5rem;
+    animation: fadeInUp 1s ease-out 0.2s both;
+}
+.mfx-highlight {
+    background: linear-gradient(135deg, #34bdbd 0%, #667eea 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.mfx-subtitle {
+    font-size: 1.25rem;
+    color: #718096;
+    line-height: 1.6;
+    animation: fadeInUp 1s ease-out 0.4s both;
+}
+
+/* Services Grid */
+.mfx-services-grid-section {
+    background: #ffffff;
+    padding: 5rem 0;
+}
+.mfx-services-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem;
+}
+.mfx-service-card {
+    background: linear-gradient(135deg, #ffffff 0%, #f8fafc 100%);
+    border: 1px solid rgba(52, 189, 189, 0.1);
+    border-radius: 20px;
+    padding: 2.5rem;
+    transition: all 0.3s ease;
+    animation: fadeInUp 1s ease-out both;
+    position: relative;
+    overflow: hidden;
+}
+.mfx-service-card:nth-child(1) { animation-delay: 0.1s; }
+.mfx-service-card:nth-child(2) { animation-delay: 0.2s; }
+.mfx-service-card:nth-child(3) { animation-delay: 0.3s; }
+.mfx-service-card:nth-child(4) { animation-delay: 0.4s; }
+.mfx-service-card:nth-child(5) { animation-delay: 0.5s; }
+.mfx-service-card:nth-child(6) { animation-delay: 0.6s; }
+
+.mfx-service-card::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 4px;
+    background: linear-gradient(90deg, #34bdbd, #667eea);
+    transform: scaleX(0);
+    transform-origin: left;
+    transition: transform 0.3s ease;
+}
+.mfx-service-card:hover::before { transform: scaleX(1); }
+.mfx-service-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 20px 60px rgba(52, 189, 189, 0.15);
+    border-color: rgba(52, 189, 189, 0.3);
+}
+
+.mfx-service-icon {
+    width: 70px;
+    height: 70px;
+    background: linear-gradient(135deg, #34bdbd, #2d9cdb);
+    border-radius: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1.5rem;
+    font-size: 2rem;
+    transition: all 0.3s ease;
+}
+.mfx-service-card:hover .mfx-service-icon {
+    transform: scale(1.1) rotate(5deg);
+    box-shadow: 0 10px 30px rgba(52, 189, 189, 0.4);
+}
+.mfx-service-card h3 {
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: #1A202C;
+    margin-bottom: 1rem;
+}
+.mfx-service-card p {
+    color: #718096;
+    line-height: 1.6;
+    margin-bottom: 1.5rem;
+}
+.mfx-service-features {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.mfx-service-features li {
+    color: #4A5568;
+    padding: 0.4rem 0;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.9rem;
+}
+.mfx-service-features li::before {
+    content: '✓';
+    color: #34bdbd;
+    font-weight: bold;
+}
+
+/* Process Section */
+.mfx-process-section {
+    background: linear-gradient(135deg, #2D3748 0%, #1A202C 100%);
+    padding: 5rem 0;
+    position: relative;
+    overflow: hidden;
+}
+.mfx-process-section::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background:
+        radial-gradient(circle at 20% 30%, rgba(52, 189, 189, 0.1) 0%, transparent 50%),
+        radial-gradient(circle at 80% 70%, rgba(102, 126, 234, 0.08) 0%, transparent 50%);
+}
+.mfx-process-header {
+    text-align: center;
+    margin-bottom: 4rem;
+}
+.mfx-process-header h2 {
+    font-size: 2.5rem;
+    font-weight: 800;
+    color: white;
+    animation: fadeInUp 1s ease-out;
+}
+.mfx-process-header p {
+    color: rgba(255, 255, 255, 0.7);
+    font-size: 1.1rem;
+    animation: fadeInUp 1s ease-out 0.2s both;
+}
+.mfx-process-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 2rem;
+    position: relative;
+}
+.mfx-process-grid::before {
+    content: '';
+    position: absolute;
+    top: 40px;
+    left: 12.5%;
+    right: 12.5%;
+    height: 2px;
+    background: linear-gradient(90deg, #34bdbd, #667eea);
+    opacity: 0.3;
+}
+.mfx-process-step {
+    text-align: center;
+    position: relative;
+    animation: fadeInUp 1s ease-out both;
+}
+.mfx-process-step:nth-child(1) { animation-delay: 0.2s; }
+.mfx-process-step:nth-child(2) { animation-delay: 0.4s; }
+.mfx-process-step:nth-child(3) { animation-delay: 0.6s; }
+.mfx-process-step:nth-child(4) { animation-delay: 0.8s; }
+
+.mfx-step-number {
+    width: 80px;
+    height: 80px;
+    background: linear-gradient(135deg, #34bdbd, #2d9cdb);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 1.5rem;
+    font-size: 2rem;
+    font-weight: 800;
+    color: white;
+    position: relative;
+    z-index: 2;
+    transition: all 0.3s ease;
+}
+.mfx-process-step:hover .mfx-step-number {
+    transform: scale(1.1);
+    box-shadow: 0 10px 40px rgba(52, 189, 189, 0.5);
+}
+.mfx-process-step h3 {
+    color: white;
+    font-size: 1.2rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+}
+.mfx-process-step p {
+    color: rgba(255, 255, 255, 0.7);
+    font-size: 0.9rem;
+}
+
+/* CTA */
+.mfx-cta-section {
+    background: linear-gradient(135deg, #34bdbd 0%, #2d9cdb 100%);
+    padding: 5rem 0;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+}
+.mfx-cta-section::before {
+    content: '';
+    position: absolute;
+    top: -50%; left: -50%;
+    width: 200%; height: 200%;
+    background: radial-gradient(circle, rgba(255,255,255,0.1) 0%, transparent 60%);
+    animation: rotate 20s linear infinite;
+}
+@keyframes rotate { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+
+.mfx-cta-content { position: relative; z-index: 2; }
+.mfx-cta-content h2 {
+    font-size: 2.5rem;
+    font-weight: 800;
+    color: white;
+    margin-bottom: 1rem;
+}
+.mfx-cta-content p {
+    color: rgba(255, 255, 255, 0.9);
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+}
+.mfx-cta-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    background: white;
+    color: #34bdbd;
+    padding: 1rem 2.5rem;
+    border-radius: 50px;
+    font-weight: 600;
+    font-size: 1.1rem;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+}
+.mfx-cta-btn:hover {
+    transform: translateY(-3px) scale(1.05);
+    box-shadow: 0 15px 40px rgba(0,0,0,0.3);
+}
+
+@keyframes fadeInUp {
+    from { opacity: 0; transform: translateY(30px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+@media (max-width: 992px) {
+    .mfx-services-grid { grid-template-columns: repeat(2, 1fr); }
+    .mfx-process-grid { grid-template-columns: repeat(2, 1fr); }
+    .mfx-process-grid::before { display: none; }
+}
+@media (max-width: 768px) {
+    .mfx-services-grid { grid-template-columns: 1fr; }
+    .mfx-process-grid { grid-template-columns: 1fr; }
+}
+</style>
+
+<div class="mfx-services">
+    <!-- Hero -->
+    <section class="mfx-services-hero">
+        <div class="mfx-container">
+            <div class="mfx-services-header">
+                <div class="mfx-badge">🚀 Nuestros Servicios</div>
+                <h1 class="mfx-title">Soluciones a tu <span class="mfx-highlight">Medida</span></h1>
+                <p class="mfx-subtitle">Ofrecemos servicios especializados en inteligencia artificial y ciberseguridad para empresas que buscan crecer de forma segura.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Services Grid -->
+    <section class="mfx-services-grid-section">
+        <div class="mfx-container">
+            <div class="mfx-services-grid">
+                <div class="mfx-service-card">
+                    <div class="mfx-service-icon">🛡️</div>
+                    <h3>Auditoría de Seguridad</h3>
+                    <p>Analizamos tu infraestructura para identificar vulnerabilidades antes de que sean explotadas.</p>
+                    <ul class="mfx-service-features">
+                        <li>Pentesting profesional</li>
+                        <li>Análisis de vulnerabilidades</li>
+                        <li>Reportes detallados</li>
+                    </ul>
+                </div>
+                <div class="mfx-service-card">
+                    <div class="mfx-service-icon">🤖</div>
+                    <h3>Consultoría en IA</h3>
+                    <p>Te ayudamos a implementar inteligencia artificial en tus procesos de negocio.</p>
+                    <ul class="mfx-service-features">
+                        <li>Automatización inteligente</li>
+                        <li>Chatbots personalizados</li>
+                        <li>Análisis predictivo</li>
+                    </ul>
+                </div>
+                <div class="mfx-service-card">
+                    <div class="mfx-service-icon">🔐</div>
+                    <h3>Protección de Datos</h3>
+                    <p>Implementamos estrategias que cumplen con normativas internacionales.</p>
+                    <ul class="mfx-service-features">
+                        <li>Cifrado avanzado</li>
+                        <li>Backups seguros</li>
+                        <li>Recuperación ante desastres</li>
+                    </ul>
+                </div>
+                <div class="mfx-service-card">
+                    <div class="mfx-service-icon">⚡</div>
+                    <h3>Automatización</h3>
+                    <p>Diseñamos flujos de trabajo automatizados que liberan a tu equipo de tareas repetitivas.</p>
+                    <ul class="mfx-service-features">
+                        <li>RPA empresarial</li>
+                        <li>Integración de sistemas</li>
+                        <li>Workflows inteligentes</li>
+                    </ul>
+                </div>
+                <div class="mfx-service-card">
+                    <div class="mfx-service-icon">📞</div>
+                    <h3>Soporte 24/7</h3>
+                    <p>Respuesta rápida ante incidentes de seguridad. Monitoreo continuo disponible.</p>
+                    <ul class="mfx-service-features">
+                        <li>Monitoreo en tiempo real</li>
+                        <li>Respuesta a incidentes</li>
+                        <li>SLA garantizado</li>
+                    </ul>
+                </div>
+                <div class="mfx-service-card">
+                    <div class="mfx-service-icon">🎓</div>
+                    <h3>Capacitación</h3>
+                    <p>Formamos a tu equipo en mejores prácticas de seguridad.</p>
+                    <ul class="mfx-service-features">
+                        <li>Workshops presenciales</li>
+                        <li>Cursos online</li>
+                        <li>Certificaciones</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Process -->
+    <section class="mfx-process-section">
+        <div class="mfx-container">
+            <div class="mfx-process-header">
+                <h2>Cómo Trabajamos</h2>
+                <p>Un proceso simple y efectivo para garantizar resultados.</p>
+            </div>
+            <div class="mfx-process-grid">
+                <div class="mfx-process-step">
+                    <div class="mfx-step-number">1</div>
+                    <h3>Análisis</h3>
+                    <p>Evaluamos tu situación actual y necesidades específicas.</p>
+                </div>
+                <div class="mfx-process-step">
+                    <div class="mfx-step-number">2</div>
+                    <h3>Estrategia</h3>
+                    <p>Diseñamos un plan personalizado para tu empresa.</p>
+                </div>
+                <div class="mfx-process-step">
+                    <div class="mfx-step-number">3</div>
+                    <h3>Implementación</h3>
+                    <p>Ejecutamos con mínimo impacto en tu operación.</p>
+                </div>
+                <div class="mfx-process-step">
+                    <div class="mfx-step-number">4</div>
+                    <h3>Soporte</h3>
+                    <p>Acompañamiento continuo para el éxito.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- CTA -->
+    <section class="mfx-cta-section">
+        <div class="mfx-cta-content">
+            <h2>¿Cuál servicio necesitas?</h2>
+            <p>Agenda una llamada y conversemos sobre cómo podemos ayudarte.</p>
+            <a href="#" class="mfx-cta-btn" data-latepoint-booking>
+                Agendar Llamada →
+            </a>
+        </div>
+    </section>
+</div>
